@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="draftsState">
+      <draftsState>
+        <option name="requests">
+          <list>
+            <requestState>
+              <option name="id" value="c072a0ac-e474-485d-958f-061c7be3e1fe" />
+              <option name="method" value="GET" />
+              <option name="name" value="Get Products" />
+              <option name="url" value="http://127.0.0.1:5000/api/products" />
+            </requestState>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="&#10;  {&#10;    &quot;category&quot;: &quot;easdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="248bc064-bd1d-4749-98a9-d404df919566" />
+              <option name="method" value="POST" />
+              <option name="name" value="Post Products" />
+              <option name="url" value="http://127.0.0.1:5000/api/products" />
+            </requestState>
+            <requestState>
+              <option name="id" value="ade750fb-4622-4d54-a274-4a302b0c5a13" />
+              <option name="method" value="DELETE" />
+              <option name="name" value="Delete Products" />
+              <option name="url" value="http://127.0.0.1:5000/api/products/0" />
+            </requestState>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value=" {&#10;    &quot;category&quot;: &quot;electronics&quot;,&#10;    &quot;name&quot;: &quot;I phone 1&quot;,&#10;    &quot;price&quot;: &quot;299.99&quot;&#10;  }" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="description" value="update a product by its index in a list" />
+              <option name="id" value="dc55fb64-f530-46ec-847b-c4b6aacd2193" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Put Products" />
+              <option name="url" value="http://127.0.0.1:5000/api/products/0" />
+            </requestState>
+            <requestState>
+              <option name="id" value="31f3332b-89fa-4cdf-bf93-d6c9eb51e317" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://127.0.0.1:5000/api/products/count" />
+            </requestState>
+          </list>
+        </option>
+      </draftsState>
+    </option>
+    <option name="id" value="8bc70c06-6d91-4cab-a3f7-f05cbc2cfdd3" />
+    <option name="version" value="5" />
+  </component>
+</project>
