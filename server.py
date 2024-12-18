@@ -1,11 +1,15 @@
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request, render_template
 import json
 app = Flask(__name__)
 
 @app.get("/")
-
 def home():
-    return "Hello from Flask"
+    return "Welcome to the flask API"
+
+
+@app.get("/about")
+def about_page():
+    return render_template("about.html") # rebder_template is reserved and look for a template folder
 
 
 hi = {"message":"Hello as a string var"}
