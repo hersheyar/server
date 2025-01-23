@@ -14,14 +14,14 @@
             <requestState>
               <option name="body">
                 <bodyState>
-                  <option name="raw" value="&#10;  {&#10;    &quot;category&quot;: &quot;easdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }" />
+                  <option name="raw" value="{&#10;        &quot;code&quot;: &quot;querty&quot;,&#10;        &quot;discount&quot;: 12&#10;    }" />
                   <option name="type" value="JSON" />
                 </bodyState>
               </option>
               <option name="id" value="248bc064-bd1d-4749-98a9-d404df919566" />
               <option name="method" value="POST" />
               <option name="name" value="Post Products" />
-              <option name="url" value="http://127.0.0.1:5000/api/products" />
+              <option name="url" value="http://127.0.0.1:5000/api/coupons" />
             </requestState>
             <requestState>
               <option name="id" value="ade750fb-4622-4d54-a274-4a302b0c5a13" />
@@ -46,13 +46,13 @@
               <option name="id" value="31f3332b-89fa-4cdf-bf93-d6c9eb51e317" />
               <option name="method" value="GET" />
               <option name="name" value="Draft" />
-              <option name="url" value="http://127.0.0.1:5000/api/products/count" />
+              <option name="url" value="http://127.0.0.1:5000/" />
             </requestState>
           </list>
         </option>
       </draftsState>
     </option>
     <option name="id" value="8bc70c06-6d91-4cab-a3f7-f05cbc2cfdd3" />
-    <option name="version" value="5" />
+    <option name="version" value="6" />
   </component>
 </project>

@@ -1,5 +1,7 @@
 from flask import Flask, jsonify, request, render_template
 import json
+from config import products_db, coupons_db
+
 app = Flask(__name__)
 
 @app.get("/")
@@ -9,7 +11,7 @@ def home():
 
 @app.get("/about")
 def about_page():
-    return render_template("about.html") # rebder_template is reserved and look for a template folder
+    return render_template("about.html") # render_template is reserved and look for a template folder
 
 
 hi = {"message":"Hello as a string var"}
@@ -18,29 +20,31 @@ def astringy():
     return jsonify(hi)
 
 
-products = []
+
+def fix_id(obj):
+    obj["_id"] = str(obj["_id"])
+    return obj
 
 @app.post("/api/products")
 def save_product():
+    print("Post received")
     product = request.get_json()
     print(f"this is my new product {product}")
-    products.append(product)
-    return jsonify(products)
+    products_db.products.insert_one(product)
+    return json.dumps(fix_id(product))
+
 
 @app.get("/api/products")
 def get_product():
+    products = []
+    cursor = products_db.products.find()
+    for prod in cursor:
+        products.append(fix_id(prod))
     return jsonify(products)
 
 
-@app.get("/api/products/count")
-def get_product_count():
-    product_count = len(products)
-    return {"Number Of Products": product_count}
-
-
-
 @app.put("/api/products/<int:index>")
-def update_priduct(index):
+def update_product(index):
     updated_product = request.get_json()
     print(f"Product: {updated_product}: {index}")
 
@@ -60,6 +64,28 @@ def delete_product(index):
             return json.dumps(deleted_product)
         else:
             return "That index does not exist"
+
+
+
+##############
+
+
+
+@app.post("/api/coupons")
+def save_coupon():
+    print("Post received")
+    coupon = request.get_json()
+    print(f"this is my new coupon {coupon}")
+    coupons_db.coupons.insert_one(coupon)
+    return json.dumps(fix_id(coupon))
+
+@app.get("/api/coupons")
+def get_coupons():
+    coupons = []
+    cursor = coupons_db.coupons.find()
+    for prod in cursor:
+        coupons.append(fix_id(prod))
+    return jsonify(coupons)
 
 app.run(debug=True)
 

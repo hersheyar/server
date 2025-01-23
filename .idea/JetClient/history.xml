@@ -4,59 +4,6 @@
     <option name="requestHistoryStates">
       <list>
         <requestHistoryState>
-          <option name="dateTime" value="1734406696566" />
-          <option name="id" value="33fc1774-54ee-4544-a725-5e227660d819" />
-          <option name="request">
-            <requestState>
-              <option name="id" value="ade750fb-4622-4d54-a274-4a302b0c5a13" />
-              <option name="method" value="DELETE" />
-              <option name="name" value="Draft" />
-              <option name="url" value="http://127.0.0.1:5000/api/products/0" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="VGhhdCBpbmRleCBkb2VzIG5vdCBleGlzdA==" />
-              <option name="bodyString" value="That index does not exist" />
-              <option name="code" value="200" />
-              <option name="connectionEstablishingTime" value="3" />
-              <option name="contentType" value="text/html; charset=utf-8" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="Server" />
-                    <option name="value" value="Werkzeug/3.1.3 Python/3.12.2" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Tue, 17 Dec 2024 03:38:16 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="text/html; charset=utf-8" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="25" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="close" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="33fc1774-54ee-4544-a725-5e227660d819" />
-              <option name="message" value="OK" />
-              <option name="prettyResponseType" value="HTML" />
-              <option name="previewType" value="HTML" />
-              <option name="rawBodyString" value="That index does not exist" />
-              <option name="size" value="25" />
-              <option name="time" value="3" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
           <option name="dateTime" value="1734406704926" />
           <option name="id" value="c3d59df4-8ab2-4711-bf49-9b72260b3b51" />
           <option name="request">
@@ -480,58 +427,6 @@
           <option name="workspaceId" value="drafts" />
         </requestHistoryState>
         <requestHistoryState>
-          <option name="dateTime" value="1734407233457" />
-          <option name="id" value="8419665d-5a75-4d46-a929-f53e29e41a05" />
-          <option name="request">
-            <requestState>
-              <option name="id" value="c072a0ac-e474-485d-958f-061c7be3e1fe" />
-              <option name="method" value="GET" />
-              <option name="name" value="Get Products" />
-              <option name="url" value="http://127.0.0.1:5000/api/products" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="WwogIHsKICAgICJjYXRlZ29yeSI6ICJlYXNkZmxlY3Rhc2Rmcm9uaWNzIiwKICAgICJuYW1lIjogIkkgcGhvYWFzZGZzZGZuZSAxIiwKICAgICJwcmljZSI6ICIyOWFzYXNkZmQ5Ljk5IgogIH0KXQo=" />
-              <option name="bodyString" value="[&#10;  {&#10;    &quot;category&quot;: &quot;easdflectasdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }&#10;]" />
-              <option name="code" value="200" />
-              <option name="connectionEstablishingTime" value="2" />
-              <option name="contentType" value="application/json" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="Server" />
-                    <option name="value" value="Werkzeug/3.1.3 Python/3.12.2" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Tue, 17 Dec 2024 03:47:13 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="application/json" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="113" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="close" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="8419665d-5a75-4d46-a929-f53e29e41a05" />
-              <option name="message" value="OK" />
-              <option name="prettyResponseType" value="JSON" />
-              <option name="rawBodyString" value="[&#10;  {&#10;    &quot;category&quot;: &quot;easdflectasdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }&#10;]&#10;" />
-              <option name="size" value="113" />
-              <option name="time" value="3" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
           <option name="dateTime" value="1734407236523" />
           <option name="id" value="8cfb8799-0c6a-4801-a68b-c6e034dd3b02" />
           <option name="request">
@@ -864,64 +759,6 @@
           <option name="workspaceId" value="drafts" />
         </requestHistoryState>
         <requestHistoryState>
-          <option name="dateTime" value="1734407452829" />
-          <option name="id" value="a77a4c17-dc0b-4ef5-8763-900d5e12d121" />
-          <option name="request">
-            <requestState>
-              <option name="body">
-                <bodyState>
-                  <option name="raw" value="&#10;  {&#10;    &quot;category&quot;: &quot;easdflectasdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }" />
-                  <option name="type" value="JSON" />
-                </bodyState>
-              </option>
-              <option name="id" value="248bc064-bd1d-4749-98a9-d404df919566" />
-              <option name="method" value="POST" />
-              <option name="name" value="Post Products" />
-              <option name="url" value="http://127.0.0.1:5000/api/products" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="WwogIHsKICAgICJjYXRlZ29yeSI6ICJlYXNkZmxlY3Rhc2Rmcm9uaWNzIiwKICAgICJuYW1lIjogIkkgcGhvYWFzZGZzZGZuZSAxIiwKICAgICJwcmljZSI6ICIyOWFzYXNkZmQ5Ljk5IgogIH0KXQo=" />
-              <option name="bodyString" value="[&#10;  {&#10;    &quot;category&quot;: &quot;easdflectasdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }&#10;]" />
-              <option name="code" value="200" />
-              <option name="connectionEstablishingTime" value="1" />
-              <option name="contentType" value="application/json" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="Server" />
-                    <option name="value" value="Werkzeug/3.1.3 Python/3.12.2" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Tue, 17 Dec 2024 03:50:52 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="application/json" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="113" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="close" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="a77a4c17-dc0b-4ef5-8763-900d5e12d121" />
-              <option name="message" value="OK" />
-              <option name="prettyResponseType" value="JSON" />
-              <option name="rawBodyString" value="[&#10;  {&#10;    &quot;category&quot;: &quot;easdflectasdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }&#10;]&#10;" />
-              <option name="size" value="113" />
-              <option name="time" value="3" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
           <option name="dateTime" value="1734407455678" />
           <option name="id" value="60ce8a7a-e959-4964-9f33-f01c365ab511" />
           <option name="request">
@@ -1086,180 +923,6 @@
           <option name="workspaceId" value="drafts" />
         </requestHistoryState>
         <requestHistoryState>
-          <option name="dateTime" value="1734545462341" />
-          <option name="id" value="bb38a366-76b3-4a2a-84e4-1dad07e6589f" />
-          <option name="request">
-            <requestState>
-              <option name="body">
-                <bodyState>
-                  <option name="raw" value="&#10;  {&#10;    &quot;category&quot;: &quot;easdflectasdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }" />
-                  <option name="type" value="JSON" />
-                </bodyState>
-              </option>
-              <option name="id" value="248bc064-bd1d-4749-98a9-d404df919566" />
-              <option name="method" value="POST" />
-              <option name="name" value="Post Products" />
-              <option name="url" value="http://127.0.0.1:5000/api/products" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="WwogIHsKICAgICJjYXRlZ29yeSI6ICJlYXNkZmxlY3Rhc2Rmcm9uaWNzIiwKICAgICJuYW1lIjogIkkgcGhvYWFzZGZzZGZuZSAxIiwKICAgICJwcmljZSI6ICIyOWFzYXNkZmQ5Ljk5IgogIH0KXQo=" />
-              <option name="bodyString" value="[&#10;  {&#10;    &quot;category&quot;: &quot;easdflectasdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }&#10;]" />
-              <option name="code" value="200" />
-              <option name="connectionEstablishingTime" value="112" />
-              <option name="contentType" value="application/json" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="Server" />
-                    <option name="value" value="Werkzeug/3.1.3 Python/3.12.2" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Wed, 18 Dec 2024 18:11:02 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="application/json" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="113" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="close" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="bb38a366-76b3-4a2a-84e4-1dad07e6589f" />
-              <option name="message" value="OK" />
-              <option name="prettyResponseType" value="JSON" />
-              <option name="rawBodyString" value="[&#10;  {&#10;    &quot;category&quot;: &quot;easdflectasdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }&#10;]&#10;" />
-              <option name="size" value="113" />
-              <option name="time" value="119" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
-          <option name="dateTime" value="1734545467075" />
-          <option name="id" value="8332046e-063d-4569-bcd5-33ece1e9d64b" />
-          <option name="request">
-            <requestState>
-              <option name="body">
-                <bodyState>
-                  <option name="raw" value="&#10;  {&#10;    &quot;category&quot;: &quot;easdasdfasdfectasdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }" />
-                  <option name="type" value="JSON" />
-                </bodyState>
-              </option>
-              <option name="id" value="248bc064-bd1d-4749-98a9-d404df919566" />
-              <option name="method" value="POST" />
-              <option name="name" value="Post Products" />
-              <option name="url" value="http://127.0.0.1:5000/api/products" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="WwogIHsKICAgICJjYXRlZ29yeSI6ICJlYXNkZmxlY3Rhc2Rmcm9uaWNzIiwKICAgICJuYW1lIjogIkkgcGhvYWFzZGZzZGZuZSAxIiwKICAgICJwcmljZSI6ICIyOWFzYXNkZmQ5Ljk5IgogIH0sCiAgewogICAgImNhdGVnb3J5IjogImVhc2Rhc2RmYXNkZmVjdGFzZGZyb25pY3MiLAogICAgIm5hbWUiOiAiSSBwaG9hYXNkZnNkZm5lIDEiLAogICAgInByaWNlIjogIjI5YXNhc2RmZDkuOTkiCiAgfQpdCg==" />
-              <option name="bodyString" value="[&#10;  {&#10;    &quot;category&quot;: &quot;easdflectasdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  },&#10;  {&#10;    &quot;category&quot;: &quot;easdasdfasdfectasdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }&#10;]" />
-              <option name="code" value="200" />
-              <option name="connectionEstablishingTime" value="1" />
-              <option name="contentType" value="application/json" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="Server" />
-                    <option name="value" value="Werkzeug/3.1.3 Python/3.12.2" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Wed, 18 Dec 2024 18:11:07 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="application/json" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="229" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="close" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="8332046e-063d-4569-bcd5-33ece1e9d64b" />
-              <option name="message" value="OK" />
-              <option name="prettyResponseType" value="JSON" />
-              <option name="rawBodyString" value="[&#10;  {&#10;    &quot;category&quot;: &quot;easdflectasdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  },&#10;  {&#10;    &quot;category&quot;: &quot;easdasdfasdfectasdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }&#10;]&#10;" />
-              <option name="size" value="229" />
-              <option name="time" value="3" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
-          <option name="dateTime" value="1734545471884" />
-          <option name="id" value="77325fb5-1eac-4a9c-8969-8f46a3b7e51a" />
-          <option name="request">
-            <requestState>
-              <option name="body">
-                <bodyState>
-                  <option name="raw" value="&#10;  {&#10;    &quot;category&quot;: &quot;easdasdfaasdfasdfdghjdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }" />
-                  <option name="type" value="JSON" />
-                </bodyState>
-              </option>
-              <option name="id" value="248bc064-bd1d-4749-98a9-d404df919566" />
-              <option name="method" value="POST" />
-              <option name="name" value="Post Products" />
-              <option name="url" value="http://127.0.0.1:5000/api/products" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="WwogIHsKICAgICJjYXRlZ29yeSI6ICJlYXNkZmxlY3Rhc2Rmcm9uaWNzIiwKICAgICJuYW1lIjogIkkgcGhvYWFzZGZzZGZuZSAxIiwKICAgICJwcmljZSI6ICIyOWFzYXNkZmQ5Ljk5IgogIH0sCiAgewogICAgImNhdGVnb3J5IjogImVhc2Rhc2RmYXNkZmVjdGFzZGZyb25pY3MiLAogICAgIm5hbWUiOiAiSSBwaG9hYXNkZnNkZm5lIDEiLAogICAgInByaWNlIjogIjI5YXNhc2RmZDkuOTkiCiAgfSwKICB7CiAgICAiY2F0ZWdvcnkiOiAiZWFzZGFzZGZhYXNkZmFzZGZkZ2hqZGZyb25pY3MiLAogICAgIm5hbWUiOiAiSSBwaG9hYXNkZnNkZm5lIDEiLAogICAgInByaWNlIjogIjI5YXNhc2RmZDkuOTkiCiAgfQpdCg==" />
-              <option name="bodyString" value="[&#10;  {&#10;    &quot;category&quot;: &quot;easdflectasdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  },&#10;  {&#10;    &quot;category&quot;: &quot;easdasdfasdfectasdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  },&#10;  {&#10;    &quot;category&quot;: &quot;easdasdfaasdfasdfdghjdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }&#10;]" />
-              <option name="code" value="200" />
-              <option name="connectionEstablishingTime" value="2" />
-              <option name="contentType" value="application/json" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="Server" />
-                    <option name="value" value="Werkzeug/3.1.3 Python/3.12.2" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Wed, 18 Dec 2024 18:11:11 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="application/json" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="349" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="close" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="77325fb5-1eac-4a9c-8969-8f46a3b7e51a" />
-              <option name="message" value="OK" />
-              <option name="prettyResponseType" value="JSON" />
-              <option name="rawBodyString" value="[&#10;  {&#10;    &quot;category&quot;: &quot;easdflectasdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  },&#10;  {&#10;    &quot;category&quot;: &quot;easdasdfasdfectasdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  },&#10;  {&#10;    &quot;category&quot;: &quot;easdasdfaasdfasdfdghjdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }&#10;]&#10;" />
-              <option name="size" value="349" />
-              <option name="time" value="4" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
           <option name="dateTime" value="1734545487710" />
           <option name="id" value="21962dec-3f64-4712-bd10-d43f44a125ad" />
           <option name="request">
@@ -1359,180 +1022,6 @@
               <option name="previewType" value="HTML" />
               <option name="rawBodyString" value="3" />
               <option name="size" value="1" />
-              <option name="time" value="3" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
-          <option name="dateTime" value="1734545568199" />
-          <option name="id" value="d4bbb964-2d80-48b9-bf9a-7ad6772da046" />
-          <option name="request">
-            <requestState>
-              <option name="body">
-                <bodyState>
-                  <option name="raw" value="&#10;  {&#10;    &quot;category&quot;: &quot;easdadsfaasdfaasdfasdfdghjdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }" />
-                  <option name="type" value="JSON" />
-                </bodyState>
-              </option>
-              <option name="id" value="248bc064-bd1d-4749-98a9-d404df919566" />
-              <option name="method" value="POST" />
-              <option name="name" value="Post Products" />
-              <option name="url" value="http://127.0.0.1:5000/api/products" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="WwogIHsKICAgICJjYXRlZ29yeSI6ICJlYXNkYWRzZmFhc2RmYWFzZGZhc2RmZGdoamRmcm9uaWNzIiwKICAgICJuYW1lIjogIkkgcGhvYWFzZGZzZGZuZSAxIiwKICAgICJwcmljZSI6ICIyOWFzYXNkZmQ5Ljk5IgogIH0KXQo=" />
-              <option name="bodyString" value="[&#10;  {&#10;    &quot;category&quot;: &quot;easdadsfaasdfaasdfasdfdghjdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }&#10;]" />
-              <option name="code" value="200" />
-              <option name="connectionEstablishingTime" value="1" />
-              <option name="contentType" value="application/json" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="Server" />
-                    <option name="value" value="Werkzeug/3.1.3 Python/3.12.2" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Wed, 18 Dec 2024 18:12:48 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="application/json" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="128" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="close" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="d4bbb964-2d80-48b9-bf9a-7ad6772da046" />
-              <option name="message" value="OK" />
-              <option name="prettyResponseType" value="JSON" />
-              <option name="rawBodyString" value="[&#10;  {&#10;    &quot;category&quot;: &quot;easdadsfaasdfaasdfasdfdghjdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }&#10;]&#10;" />
-              <option name="size" value="128" />
-              <option name="time" value="4" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
-          <option name="dateTime" value="1734545571486" />
-          <option name="id" value="5b0e9b23-26b3-48cc-b101-9316673af074" />
-          <option name="request">
-            <requestState>
-              <option name="body">
-                <bodyState>
-                  <option name="raw" value="&#10;  {&#10;    &quot;category&quot;: &quot;easdaasdfasdfdsfaasdfaasdfasdfdghjdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }" />
-                  <option name="type" value="JSON" />
-                </bodyState>
-              </option>
-              <option name="id" value="248bc064-bd1d-4749-98a9-d404df919566" />
-              <option name="method" value="POST" />
-              <option name="name" value="Post Products" />
-              <option name="url" value="http://127.0.0.1:5000/api/products" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="WwogIHsKICAgICJjYXRlZ29yeSI6ICJlYXNkYWRzZmFhc2RmYWFzZGZhc2RmZGdoamRmcm9uaWNzIiwKICAgICJuYW1lIjogIkkgcGhvYWFzZGZzZGZuZSAxIiwKICAgICJwcmljZSI6ICIyOWFzYXNkZmQ5Ljk5IgogIH0sCiAgewogICAgImNhdGVnb3J5IjogImVhc2RhYXNkZmFzZGZkc2ZhYXNkZmFhc2RmYXNkZmRnaGpkZnJvbmljcyIsCiAgICAibmFtZSI6ICJJIHBob2Fhc2Rmc2RmbmUgMSIsCiAgICAicHJpY2UiOiAiMjlhc2FzZGZkOS45OSIKICB9Cl0K" />
-              <option name="bodyString" value="[&#10;  {&#10;    &quot;category&quot;: &quot;easdadsfaasdfaasdfasdfdghjdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  },&#10;  {&#10;    &quot;category&quot;: &quot;easdaasdfasdfdsfaasdfaasdfasdfdghjdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }&#10;]" />
-              <option name="code" value="200" />
-              <option name="connectionEstablishingTime" value="1" />
-              <option name="contentType" value="application/json" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="Server" />
-                    <option name="value" value="Werkzeug/3.1.3 Python/3.12.2" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Wed, 18 Dec 2024 18:12:51 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="application/json" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="261" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="close" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="5b0e9b23-26b3-48cc-b101-9316673af074" />
-              <option name="message" value="OK" />
-              <option name="prettyResponseType" value="JSON" />
-              <option name="rawBodyString" value="[&#10;  {&#10;    &quot;category&quot;: &quot;easdadsfaasdfaasdfasdfdghjdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  },&#10;  {&#10;    &quot;category&quot;: &quot;easdaasdfasdfdsfaasdfaasdfasdfdghjdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }&#10;]&#10;" />
-              <option name="size" value="261" />
-              <option name="time" value="3" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
-          <option name="dateTime" value="1734545574577" />
-          <option name="id" value="416c2312-0f70-4075-8908-e822c1d2c1b6" />
-          <option name="request">
-            <requestState>
-              <option name="body">
-                <bodyState>
-                  <option name="raw" value="&#10;  {&#10;    &quot;category&quot;: &quot;easdaasdfasdfdsfaasdfaasdfasdfdghjdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaaasdfasdfsdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }" />
-                  <option name="type" value="JSON" />
-                </bodyState>
-              </option>
-              <option name="id" value="248bc064-bd1d-4749-98a9-d404df919566" />
-              <option name="method" value="POST" />
-              <option name="name" value="Post Products" />
-              <option name="url" value="http://127.0.0.1:5000/api/products" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="WwogIHsKICAgICJjYXRlZ29yeSI6ICJlYXNkYWRzZmFhc2RmYWFzZGZhc2RmZGdoamRmcm9uaWNzIiwKICAgICJuYW1lIjogIkkgcGhvYWFzZGZzZGZuZSAxIiwKICAgICJwcmljZSI6ICIyOWFzYXNkZmQ5Ljk5IgogIH0sCiAgewogICAgImNhdGVnb3J5IjogImVhc2RhYXNkZmFzZGZkc2ZhYXNkZmFhc2RmYXNkZmRnaGpkZnJvbmljcyIsCiAgICAibmFtZSI6ICJJIHBob2Fhc2Rmc2RmbmUgMSIsCiAgICAicHJpY2UiOiAiMjlhc2FzZGZkOS45OSIKICB9LAogIHsKICAgICJjYXRlZ29yeSI6ICJlYXNkYWFzZGZhc2RmZHNmYWFzZGZhYXNkZmFzZGZkZ2hqZGZyb25pY3MiLAogICAgIm5hbWUiOiAiSSBwaG9hYWFzZGZhc2Rmc2Rmc2RmbmUgMSIsCiAgICAicHJpY2UiOiAiMjlhc2FzZGZkOS45OSIKICB9Cl0K" />
-              <option name="bodyString" value="[&#10;  {&#10;    &quot;category&quot;: &quot;easdadsfaasdfaasdfasdfdghjdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  },&#10;  {&#10;    &quot;category&quot;: &quot;easdaasdfasdfdsfaasdfaasdfasdfdghjdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  },&#10;  {&#10;    &quot;category&quot;: &quot;easdaasdfasdfdsfaasdfaasdfasdfdghjdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaaasdfasdfsdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }&#10;]" />
-              <option name="code" value="200" />
-              <option name="connectionEstablishingTime" value="1" />
-              <option name="contentType" value="application/json" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="Server" />
-                    <option name="value" value="Werkzeug/3.1.3 Python/3.12.2" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Wed, 18 Dec 2024 18:12:54 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="application/json" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="402" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="close" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="416c2312-0f70-4075-8908-e822c1d2c1b6" />
-              <option name="message" value="OK" />
-              <option name="prettyResponseType" value="JSON" />
-              <option name="rawBodyString" value="[&#10;  {&#10;    &quot;category&quot;: &quot;easdadsfaasdfaasdfasdfdghjdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  },&#10;  {&#10;    &quot;category&quot;: &quot;easdaasdfasdfdsfaasdfaasdfasdfdghjdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  },&#10;  {&#10;    &quot;category&quot;: &quot;easdaasdfasdfdsfaasdfaasdfasdfdghjdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaaasdfasdfsdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }&#10;]&#10;" />
-              <option name="size" value="402" />
               <option name="time" value="3" />
             </responseState>
           </option>
@@ -1748,180 +1237,6 @@
           <option name="workspaceId" value="drafts" />
         </requestHistoryState>
         <requestHistoryState>
-          <option name="dateTime" value="1734545831204" />
-          <option name="id" value="1f6c9858-3b7e-47e6-b11a-e31c27364f4c" />
-          <option name="request">
-            <requestState>
-              <option name="body">
-                <bodyState>
-                  <option name="raw" value="&#10;  {&#10;    &quot;category&quot;: &quot;easdaasdfasdfdsfaasdfaasdfasdfdghjdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaaasdfasdfsdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }" />
-                  <option name="type" value="JSON" />
-                </bodyState>
-              </option>
-              <option name="id" value="248bc064-bd1d-4749-98a9-d404df919566" />
-              <option name="method" value="POST" />
-              <option name="name" value="Post Products" />
-              <option name="url" value="http://127.0.0.1:5000/api/products" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="WwogIHsKICAgICJjYXRlZ29yeSI6ICJlYXNkYWFzZGZhc2RmZHNmYWFzZGZhYXNkZmFzZGZkZ2hqZGZyb25pY3MiLAogICAgIm5hbWUiOiAiSSBwaG9hYWFzZGZhc2Rmc2Rmc2RmbmUgMSIsCiAgICAicHJpY2UiOiAiMjlhc2FzZGZkOS45OSIKICB9Cl0K" />
-              <option name="bodyString" value="[&#10;  {&#10;    &quot;category&quot;: &quot;easdaasdfasdfdsfaasdfaasdfasdfdghjdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaaasdfasdfsdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }&#10;]" />
-              <option name="code" value="200" />
-              <option name="connectionEstablishingTime" value="2" />
-              <option name="contentType" value="application/json" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="Server" />
-                    <option name="value" value="Werkzeug/3.1.3 Python/3.12.2" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Wed, 18 Dec 2024 18:17:11 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="application/json" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="144" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="close" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="1f6c9858-3b7e-47e6-b11a-e31c27364f4c" />
-              <option name="message" value="OK" />
-              <option name="prettyResponseType" value="JSON" />
-              <option name="rawBodyString" value="[&#10;  {&#10;    &quot;category&quot;: &quot;easdaasdfasdfdsfaasdfaasdfasdfdghjdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaaasdfasdfsdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }&#10;]&#10;" />
-              <option name="size" value="144" />
-              <option name="time" value="3" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
-          <option name="dateTime" value="1734545836025" />
-          <option name="id" value="4e7e7294-dd56-4f0f-b53c-2d7e634c3860" />
-          <option name="request">
-            <requestState>
-              <option name="body">
-                <bodyState>
-                  <option name="raw" value="&#10;  {&#10;    &quot;category&quot;: &quot;easdaasdfasddfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }" />
-                  <option name="type" value="JSON" />
-                </bodyState>
-              </option>
-              <option name="id" value="248bc064-bd1d-4749-98a9-d404df919566" />
-              <option name="method" value="POST" />
-              <option name="name" value="Post Products" />
-              <option name="url" value="http://127.0.0.1:5000/api/products" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="WwogIHsKICAgICJjYXRlZ29yeSI6ICJlYXNkYWFzZGZhc2RmZHNmYWFzZGZhYXNkZmFzZGZkZ2hqZGZyb25pY3MiLAogICAgIm5hbWUiOiAiSSBwaG9hYWFzZGZhc2Rmc2Rmc2RmbmUgMSIsCiAgICAicHJpY2UiOiAiMjlhc2FzZGZkOS45OSIKICB9LAogIHsKICAgICJjYXRlZ29yeSI6ICJlYXNkYWFzZGZhc2RkZnJvbmljcyIsCiAgICAibmFtZSI6ICJJIHBob2FhYXNkZnNkZm5lIDEiLAogICAgInByaWNlIjogIjI5YXNhc2RmZDkuOTkiCiAgfQpdCg==" />
-              <option name="bodyString" value="[&#10;  {&#10;    &quot;category&quot;: &quot;easdaasdfasdfdsfaasdfaasdfasdfdghjdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaaasdfasdfsdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  },&#10;  {&#10;    &quot;category&quot;: &quot;easdaasdfasddfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }&#10;]" />
-              <option name="code" value="200" />
-              <option name="connectionEstablishingTime" value="2" />
-              <option name="contentType" value="application/json" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="Server" />
-                    <option name="value" value="Werkzeug/3.1.3 Python/3.12.2" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Wed, 18 Dec 2024 18:17:16 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="application/json" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="256" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="close" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="4e7e7294-dd56-4f0f-b53c-2d7e634c3860" />
-              <option name="message" value="OK" />
-              <option name="prettyResponseType" value="JSON" />
-              <option name="rawBodyString" value="[&#10;  {&#10;    &quot;category&quot;: &quot;easdaasdfasdfdsfaasdfaasdfasdfdghjdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaaasdfasdfsdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  },&#10;  {&#10;    &quot;category&quot;: &quot;easdaasdfasddfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }&#10;]&#10;" />
-              <option name="size" value="256" />
-              <option name="time" value="3" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
-          <option name="dateTime" value="1734545840076" />
-          <option name="id" value="e719d481-6960-4bce-813b-773436c64371" />
-          <option name="request">
-            <requestState>
-              <option name="body">
-                <bodyState>
-                  <option name="raw" value="&#10;  {&#10;    &quot;category&quot;: &quot;easdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }" />
-                  <option name="type" value="JSON" />
-                </bodyState>
-              </option>
-              <option name="id" value="248bc064-bd1d-4749-98a9-d404df919566" />
-              <option name="method" value="POST" />
-              <option name="name" value="Post Products" />
-              <option name="url" value="http://127.0.0.1:5000/api/products" />
-            </requestState>
-          </option>
-          <option name="response">
-            <responseState>
-              <option name="bodyBytesBase64" value="WwogIHsKICAgICJjYXRlZ29yeSI6ICJlYXNkYWFzZGZhc2RmZHNmYWFzZGZhYXNkZmFzZGZkZ2hqZGZyb25pY3MiLAogICAgIm5hbWUiOiAiSSBwaG9hYWFzZGZhc2Rmc2Rmc2RmbmUgMSIsCiAgICAicHJpY2UiOiAiMjlhc2FzZGZkOS45OSIKICB9LAogIHsKICAgICJjYXRlZ29yeSI6ICJlYXNkYWFzZGZhc2RkZnJvbmljcyIsCiAgICAibmFtZSI6ICJJIHBob2FhYXNkZnNkZm5lIDEiLAogICAgInByaWNlIjogIjI5YXNhc2RmZDkuOTkiCiAgfSwKICB7CiAgICAiY2F0ZWdvcnkiOiAiZWFzZGZyb25pY3MiLAogICAgIm5hbWUiOiAiSSBwaGZzZGZuZSAxIiwKICAgICJwcmljZSI6ICIyOWFzYXNkZmQ5Ljk5IgogIH0KXQo=" />
-              <option name="bodyString" value="[&#10;  {&#10;    &quot;category&quot;: &quot;easdaasdfasdfdsfaasdfaasdfasdfdghjdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaaasdfasdfsdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  },&#10;  {&#10;    &quot;category&quot;: &quot;easdaasdfasddfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  },&#10;  {&#10;    &quot;category&quot;: &quot;easdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }&#10;]" />
-              <option name="code" value="200" />
-              <option name="connectionEstablishingTime" value="2" />
-              <option name="contentType" value="application/json" />
-              <option name="headers">
-                <list>
-                  <headerState>
-                    <option name="key" value="Server" />
-                    <option name="value" value="Werkzeug/3.1.3 Python/3.12.2" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Date" />
-                    <option name="value" value="Wed, 18 Dec 2024 18:17:20 GMT" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Type" />
-                    <option name="value" value="application/json" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Content-Length" />
-                    <option name="value" value="353" />
-                  </headerState>
-                  <headerState>
-                    <option name="key" value="Connection" />
-                    <option name="value" value="close" />
-                  </headerState>
-                </list>
-              </option>
-              <option name="id" value="e719d481-6960-4bce-813b-773436c64371" />
-              <option name="message" value="OK" />
-              <option name="prettyResponseType" value="JSON" />
-              <option name="rawBodyString" value="[&#10;  {&#10;    &quot;category&quot;: &quot;easdaasdfasdfdsfaasdfaasdfasdfdghjdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaaasdfasdfsdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  },&#10;  {&#10;    &quot;category&quot;: &quot;easdaasdfasddfronics&quot;,&#10;    &quot;name&quot;: &quot;I phoaaasdfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  },&#10;  {&#10;    &quot;category&quot;: &quot;easdfronics&quot;,&#10;    &quot;name&quot;: &quot;I phfsdfne 1&quot;,&#10;    &quot;price&quot;: &quot;29asasdfd9.99&quot;&#10;  }&#10;]&#10;" />
-              <option name="size" value="353" />
-              <option name="time" value="4" />
-            </responseState>
-          </option>
-          <option name="workspaceId" value="drafts" />
-        </requestHistoryState>
-        <requestHistoryState>
           <option name="dateTime" value="1734545841755" />
           <option name="id" value="477045f3-e92e-4aad-8518-c5038b85fa97" />
           <option name="request">
@@ -2021,6 +1336,807 @@
               <option name="rawBodyString" value="{&#10;  &quot;Number Of Products&quot;: 3&#10;}&#10;" />
               <option name="size" value="30" />
               <option name="time" value="3" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737233837055" />
+          <option name="id" value="78b0de6e-3ea4-4839-82db-b32ae6d02e14" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="ade750fb-4622-4d54-a274-4a302b0c5a13" />
+              <option name="method" value="DELETE" />
+              <option name="name" value="Delete Products" />
+              <option name="url" value="http://127.0.0.1:5000/api/products/0" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="PCFkb2N0eXBlIGh0bWw+CjxodG1sIGxhbmc9ZW4+CiAgPGhlYWQ+CiAgICA8dGl0bGU+TmFtZUVycm9yOiBuYW1lICYjMzk7cHJvZHVjdHMmIzM5OyBpcyBub3QgZGVmaW5lZAogLy8gV2Vya3pldWcgRGVidWdnZXI8L3RpdGxlPgogICAgPGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSI/X19kZWJ1Z2dlcl9fPXllcyZhbXA7Y21kPXJlc291cmNlJmFtcDtmPXN0eWxlLmNzcyI+CiAgICA8bGluayByZWw9InNob3J0Y3V0IGljb24iCiAgICAgICAgaHJlZj0iP19fZGVidWdnZXJfXz15ZXMmYW1wO2NtZD1yZXNvdXJjZSZhbXA7Zj1jb25zb2xlLnBuZyI+CiAgICA8c2NyaXB0IHNyYz0iP19fZGVidWdnZXJfXz15ZXMmYW1wO2NtZD1yZXNvdXJjZSZhbXA7Zj1kZWJ1Z2dlci5qcyI+PC9zY3JpcHQ+CiAgICA8c2NyaXB0PgogICAgICB2YXIgQ09OU09MRV9NT0RFID0gZmFsc2UsCiAgICAgICAgICBFVkFMRVggPSB0cnVlLAogICAgICAgICAgRVZBTEVYX1RSVVNURUQgPSBmYWxzZSwKICAgICAgICAgIFNFQ1JFVCA9ICJWU2NHSmlJaU1YcjJ3WWk1SVVLOSI7CiAgICA8L3NjcmlwdD4KICA8L2hlYWQ+CiAgPGJvZHkgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6ICNmZmYiPgogICAgPGRpdiBjbGFzcz0iZGVidWdnZXIiPgo8aDE+TmFtZUVycm9yPC9oMT4KPGRpdiBjbGFzcz0iZGV0YWlsIj4KICA8cCBjbGFzcz0iZXJyb3Jtc2ciPk5hbWVFcnJvcjogbmFtZSAmIzM5O3Byb2R1Y3RzJiMzOTsgaXMgbm90IGRlZmluZWQKPC9wPgo8L2Rpdj4KPGgyIGNsYXNzPSJ0cmFjZWJhY2siPlRyYWNlYmFjayA8ZW0+KG1vc3QgcmVjZW50IGNhbGwgbGFzdCk8L2VtPjwvaDI+CjxkaXYgY2xhc3M9InRyYWNlYmFjayI+CiAgPGgzPjwvaDM+CiAgPHVsPjxsaT48ZGl2IGNsYXNzPSJmcmFtZSIgaWQ9ImZyYW1lLTE2MDE3MDA3MDY4NjQiPgogIDxoND5GaWxlIDxjaXRlIGNsYXNzPSJmaWxlbmFtZSI+IkM6XFVzZXJzXGhlcnNoXFB5Y2hhcm1Qcm9qZWN0c1xmYXN0QXBpUHJvamVjdFwudmVudlxMaWJcc2l0ZS1wYWNrYWdlc1xmbGFza1xhcHAucHkiPC9jaXRlPiwKICAgICAgbGluZSA8ZW0gY2xhc3M9ImxpbmUiPjE1MzY8L2VtPiwKICAgICAgaW4gPGNvZGUgY2xhc3M9ImZ1bmN0aW9uIj5fX2NhbGxfXzwvY29kZT48L2g0PgogIDxkaXYgY2xhc3M9InNvdXJjZSBsaWJyYXJ5Ij48cHJlIGNsYXNzPSJsaW5lIGJlZm9yZSI+PHNwYW4gY2xhc3M9IndzIj4gICAgPC9zcGFuPikgLSZndDsgY2FiYy5JdGVyYWJsZVtieXRlc106PC9wcmU+CjxwcmUgY2xhc3M9ImxpbmUgYmVmb3JlIj48c3BhbiBjbGFzcz0id3MiPiAgICAgICAgPC9zcGFuPiYjMzQ7JiMzNDsmIzM0O1RoZSBXU0dJIHNlcnZlciBjYWxscyB0aGUgRmxhc2sgYXBwbGljYXRpb24gb2JqZWN0IGFzIHRoZTwvcHJlPgo8cHJlIGNsYXNzPSJsaW5lIGJlZm9yZSI+PHNwYW4gY2xhc3M9IndzIj4gICAgICAgIDwvc3Bhbj5XU0dJIGFwcGxpY2F0aW9uLiBUaGlzIGNhbGxzIDptZXRoOmB3c2dpX2FwcGAsIHdoaWNoIGNhbiBiZTwvcHJlPgo8cHJlIGNsYXNzPSJsaW5lIGJlZm9yZSI+PHNwYW4gY2xhc3M9IndzIj4gICAgICAgIDwvc3Bhbj53cmFwcGVkIHRvIGFwcGx5IG1pZGRsZXdhcmUuPC9wcmU+CjxwcmUgY2xhc3M9ImxpbmUgYmVmb3JlIj48c3BhbiBjbGFzcz0id3MiPiAgICAgICAgPC9zcGFuPiYjMzQ7JiMzNDsmIzM0OzwvcHJlPgo8cHJlIGNsYXNzPSJsaW5lIGN1cnJlbnQiPjxzcGFuIGNsYXNzPSJ3cyI+ICAgICAgICA8L3NwYW4+cmV0dXJuIHNlbGYud3NnaV9hcHAoZW52aXJvbiwgc3RhcnRfcmVzcG9uc2UpCjxzcGFuIGNsYXNzPSJ3cyI+ICAgICAgICA8L3NwYW4+ICAgICAgIF5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5ePC9wcmU+PC9kaXY+CjwvZGl2PgoKPGxpPjxkaXYgY2xhc3M9ImZyYW1lIiBpZD0iZnJhbWUtMTYwMTcwMDcwNzU4NCI+CiAgPGg0PkZpbGUgPGNpdGUgY2xhc3M9ImZpbGVuYW1lIj4iQzpcVXNlcnNcaGVyc2hcUHljaGFybVByb2plY3RzXGZhc3RBcGlQcm9qZWN0XC52ZW52XExpYlxzaXRlLXBhY2thZ2VzXGZsYXNrXGFwcC5weSI8L2NpdGU+LAogICAgICBsaW5lIDxlbSBjbGFzcz0ibGluZSI+MTUxNDwvZW0+LAogICAgICBpbiA8Y29kZSBjbGFzcz0iZnVuY3Rpb24iPndzZ2lfYXBwPC9jb2RlPjwvaDQ+CiAgPGRpdiBjbGFzcz0ic291cmNlIGxpYnJhcnkiPjxwcmUgY2xhc3M9ImxpbmUgYmVmb3JlIj48c3BhbiBjbGFzcz0id3MiPiAgICAgICAgICAgIDwvc3Bhbj50cnk6PC9wcmU+CjxwcmUgY2xhc3M9ImxpbmUgYmVmb3JlIj48c3BhbiBjbGFzcz0id3MiPiAgICAgICAgICAgICAgICA8L3NwYW4+Y3R4LnB1c2goKTwvcHJlPgo8cHJlIGNsYXNzPSJsaW5lIGJlZm9yZSI+PHNwYW4gY2xhc3M9IndzIj4gICAgICAgICAgICAgICAgPC9zcGFuPnJlc3BvbnNlID0gc2VsZi5mdWxsX2Rpc3BhdGNoX3JlcXVlc3QoKTwvcHJlPgo8cHJlIGNsYXNzPSJsaW5lIGJlZm9yZSI+PHNwYW4gY2xhc3M9IndzIj4gICAgICAgICAgICA8L3NwYW4+ZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOjwvcHJlPgo8cHJlIGNsYXNzPSJsaW5lIGJlZm9yZSI+PHNwYW4gY2xhc3M9IndzIj4gICAgICAgICAgICAgICAgPC9zcGFuPmVycm9yID0gZTwvcHJlPgo8cHJlIGNsYXNzPSJsaW5lIGN1cnJlbnQiPjxzcGFuIGNsYXNzPSJ3cyI+ICAgICAgICAgICAgICAgIDwvc3Bhbj5yZXNwb25zZSA9IHNlbGYuaGFuZGxlX2V4Y2VwdGlvbihlKQo8c3BhbiBjbGFzcz0id3MiPiAgICAgICAgICAgICAgICA8L3NwYW4+ICAgICAgICAgICBeXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl48L3ByZT4KPHByZSBjbGFzcz0ibGluZSBhZnRlciI+PHNwYW4gY2xhc3M9IndzIj4gICAgICAgICAgICA8L3NwYW4+ZXhjZXB0OiAgIyBub3FhOiBCMDAxPC9wcmU+CjxwcmUgY2xhc3M9ImxpbmUgYWZ0ZXIiPjxzcGFuIGNsYXNzPSJ3cyI+ICAgICAgICAgICAgICAgIDwvc3Bhbj5lcnJvciA9IHN5cy5leGNfaW5mbygpWzFdPC9wcmU+CjxwcmUgY2xhc3M9ImxpbmUgYWZ0ZXIiPjxzcGFuIGNsYXNzPSJ3cyI+ICAgICAgICAgICAgICAgIDwvc3Bhbj5yYWlzZTwvcHJlPgo8cHJlIGNsYXNzPSJsaW5lIGFmdGVyIj48c3BhbiBjbGFzcz0id3MiPiAgICAgICAgICAgIDwvc3Bhbj5yZXR1cm4gcmVzcG9uc2UoZW52aXJvbiwgc3RhcnRfcmVzcG9uc2UpPC9wcmU+CjxwcmUgY2xhc3M9ImxpbmUgYWZ0ZXIiPjxzcGFuIGNsYXNzPSJ3cyI+ICAgICAgICA8L3NwYW4+ZmluYWxseTo8L3ByZT48L2Rpdj4KPC9kaXY+Cgo8bGk+PGRpdiBjbGFzcz0iZnJhbWUiIGlkPSJmcmFtZS0xNjAxNzAwNzA3NzI4Ij4KICA8aDQ+RmlsZSA8Y2l0ZSBjbGFzcz0iZmlsZW5hbWUiPiJDOlxVc2Vyc1xoZXJzaFxQeWNoYXJtUHJvamVjdHNcZmFzdEFwaVByb2plY3RcLnZlbnZcTGliXHNpdGUtcGFja2FnZXNcZmxhc2tcYXBwLnB5IjwvY2l0ZT4sCiAgICAgIGxpbmUgPGVtIGNsYXNzPSJsaW5lIj4xNTExPC9lbT4sCiAgICAgIGluIDxjb2RlIGNsYXNzPSJmdW5jdGlvbiI+d3NnaV9hcHA8L2NvZGU+PC9oND4KICA8ZGl2IGNsYXNzPSJzb3VyY2UgbGlicmFyeSI+PHByZSBjbGFzcz0ibGluZSBiZWZvcmUiPjxzcGFuIGNsYXNzPSJ3cyI+ICAgICAgICA8L3NwYW4+Y3R4ID0gc2VsZi5yZXF1ZXN0X2NvbnRleHQoZW52aXJvbik8L3ByZT4KPHByZSBjbGFzcz0ibGluZSBiZWZvcmUiPjxzcGFuIGNsYXNzPSJ3cyI+ICAgICAgICA8L3NwYW4+ZXJyb3I6IEJhc2VFeGNlcHRpb24gfCBOb25lID0gTm9uZTwvcHJlPgo8cHJlIGNsYXNzPSJsaW5lIGJlZm9yZSI+PHNwYW4gY2xhc3M9IndzIj4gICAgICAgIDwvc3Bhbj50cnk6PC9wcmU+CjxwcmUgY2xhc3M9ImxpbmUgYmVmb3JlIj48c3BhbiBjbGFzcz0id3MiPiAgICAgICAgICAgIDwvc3Bhbj50cnk6PC9wcmU+CjxwcmUgY2xhc3M9ImxpbmUgYmVmb3JlIj48c3BhbiBjbGFzcz0id3MiPiAgICAgICAgICAgICAgICA8L3NwYW4+Y3R4LnB1c2goKTwvcHJlPgo8cHJlIGNsYXNzPSJsaW5lIGN1cnJlbnQiPjxzcGFuIGNsYXNzPSJ3cyI+ICAgICAgICAgICAgICAgIDwvc3Bhbj5yZXNwb25zZSA9IHNlbGYuZnVsbF9kaXNwYXRjaF9yZXF1ZXN0KCkKPHNwYW4gY2xhc3M9IndzIj4gICAgICAgICAgICAgICAgPC9zcGFuPiAgICAgICAgICAgXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXjwvcHJlPgo8cHJlIGNsYXNzPSJsaW5lIGFmdGVyIj48c3BhbiBjbGFzcz0id3MiPiAgICAgICAgICAgIDwvc3Bhbj5leGNlcHQgRXhjZXB0aW9uIGFzIGU6PC9wcmU+CjxwcmUgY2xhc3M9ImxpbmUgYWZ0ZXIiPjxzcGFuIGNsYXNzPSJ3cyI+ICAgICAgICAgICAgICAgIDwvc3Bhbj5lcnJvciA9IGU8L3ByZT4KPHByZSBjbGFzcz0ibGluZSBhZnRlciI+PHNwYW4gY2xhc3M9IndzIj4gICAgICAgICAgICAgICAgPC9zcGFuPnJlc3BvbnNlID0gc2VsZi5oYW5kbGVfZXhjZXB0aW9uKGUpPC9wcmU+CjxwcmUgY2xhc3M9ImxpbmUgYWZ0ZXIiPjxzcGFuIGNsYXNzPSJ3cyI+ICAgICAgICAgICAgPC9zcGFuPmV4Y2VwdDogICMgbm9xYTogQjAwMTwvcHJlPgo8cHJlIGNsYXNzPSJsaW5lIGFmdGVyIj48c3BhbiBjbGFzcz0id3MiPiAgICAgICAgICAgICAgICA8L3NwYW4+ZXJyb3IgPSBzeXMuZXhjX2luZm8oKVsxXTwvcHJlPjwvZGl2Pgo8L2Rpdj4KCjxsaT48ZGl2IGNsYXNzPSJmcmFtZSIgaWQ9ImZyYW1lLTE2MDE3MDA3MDc4NzIiPgogIDxoND5GaWxlIDxjaXRlIGNsYXNzPSJmaWxlbmFtZSI+IkM6XFVzZXJzXGhlcnNoXFB5Y2hhcm1Qcm9qZWN0c1xmYXN0QXBpUHJvamVjdFwudmVudlxMaWJcc2l0ZS1wYWNrYWdlc1xmbGFza1xhcHAucHkiPC9jaXRlPiwKICAgICAgbGluZSA8ZW0gY2xhc3M9ImxpbmUiPjkxOTwvZW0+LAogICAgICBpbiA8Y29kZSBjbGFzcz0iZnVuY3Rpb24iPmZ1bGxfZGlzcGF0Y2hfcmVxdWVzdDwvY29kZT48L2g0PgogIDxkaXYgY2xhc3M9InNvdXJjZSBsaWJyYXJ5Ij48cHJlIGNsYXNzPSJsaW5lIGJlZm9yZSI+PHNwYW4gY2xhc3M9IndzIj4gICAgICAgICAgICA8L3NwYW4+cmVxdWVzdF9zdGFydGVkLnNlbmQoc2VsZiwgX2FzeW5jX3dyYXBwZXI9c2VsZi5lbnN1cmVfc3luYyk8L3ByZT4KPHByZSBjbGFzcz0ibGluZSBiZWZvcmUiPjxzcGFuIGNsYXNzPSJ3cyI+ICAgICAgICAgICAgPC9zcGFuPnJ2ID0gc2VsZi5wcmVwcm9jZXNzX3JlcXVlc3QoKTwvcHJlPgo8cHJlIGNsYXNzPSJsaW5lIGJlZm9yZSI+PHNwYW4gY2xhc3M9IndzIj4gICAgICAgICAgICA8L3NwYW4+aWYgcnYgaXMgTm9uZTo8L3ByZT4KPHByZSBjbGFzcz0ibGluZSBiZWZvcmUiPjxzcGFuIGNsYXNzPSJ3cyI+ICAgICAgICAgICAgICAgIDwvc3Bhbj5ydiA9IHNlbGYuZGlzcGF0Y2hfcmVxdWVzdCgpPC9wcmU+CjxwcmUgY2xhc3M9ImxpbmUgYmVmb3JlIj48c3BhbiBjbGFzcz0id3MiPiAgICAgICAgPC9zcGFuPmV4Y2VwdCBFeGNlcHRpb24gYXMgZTo8L3ByZT4KPHByZSBjbGFzcz0ibGluZSBjdXJyZW50Ij48c3BhbiBjbGFzcz0id3MiPiAgICAgICAgICAgIDwvc3Bhbj5ydiA9IHNlbGYuaGFuZGxlX3VzZXJfZXhjZXB0aW9uKGUpCjxzcGFuIGNsYXNzPSJ3cyI+ICAgICAgICAgICAgPC9zcGFuPiAgICAgXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl48L3ByZT4KPHByZSBjbGFzcz0ibGluZSBhZnRlciI+PHNwYW4gY2xhc3M9IndzIj4gICAgICAgIDwvc3Bhbj5yZXR1cm4gc2VsZi5maW5hbGl6ZV9yZXF1ZXN0KHJ2KTwvcHJlPgo8cHJlIGNsYXNzPSJsaW5lIGFmdGVyIj48c3BhbiBjbGFzcz0id3MiPjwvc3Bhbj4gPC9wcmU+CjxwcmUgY2xhc3M9ImxpbmUgYWZ0ZXIiPjxzcGFuIGNsYXNzPSJ3cyI+ICAgIDwvc3Bhbj5kZWYgZmluYWxpemVfcmVxdWVzdCg8L3ByZT4KPHByZSBjbGFzcz0ibGluZSBhZnRlciI+PHNwYW4gY2xhc3M9IndzIj4gICAgICAgIDwvc3Bhbj5zZWxmLDwvcHJlPgo8cHJlIGNsYXNzPSJsaW5lIGFmdGVyIj48c3BhbiBjbGFzcz0id3MiPiAgICAgICAgPC9zcGFuPnJ2OiBmdC5SZXNwb25zZVJldHVyblZhbHVlIHwgSFRUUEV4Y2VwdGlvbiw8L3ByZT48L2Rpdj4KPC9kaXY+Cgo8bGk+PGRpdiBjbGFzcz0iZnJhbWUiIGlkPSJmcmFtZS0xNjAxNzAwNzA4MDE2Ij4KICA8aDQ+RmlsZSA8Y2l0ZSBjbGFzcz0iZmlsZW5hbWUiPiJDOlxVc2Vyc1xoZXJzaFxQeWNoYXJtUHJvamVjdHNcZmFzdEFwaVByb2plY3RcLnZlbnZcTGliXHNpdGUtcGFja2FnZXNcZmxhc2tcYXBwLnB5IjwvY2l0ZT4sCiAgICAgIGxpbmUgPGVtIGNsYXNzPSJsaW5lIj45MTc8L2VtPiwKICAgICAgaW4gPGNvZGUgY2xhc3M9ImZ1bmN0aW9uIj5mdWxsX2Rpc3BhdGNoX3JlcXVlc3Q8L2NvZGU+PC9oND4KICA8ZGl2IGNsYXNzPSJzb3VyY2UgbGlicmFyeSI+PHByZSBjbGFzcz0ibGluZSBiZWZvcmUiPjxzcGFuIGNsYXNzPSJ3cyI+PC9zcGFuPiA8L3ByZT4KPHByZSBjbGFzcz0ibGluZSBiZWZvcmUiPjxzcGFuIGNsYXNzPSJ3cyI+ICAgICAgICA8L3NwYW4+dHJ5OjwvcHJlPgo8cHJlIGNsYXNzPSJsaW5lIGJlZm9yZSI+PHNwYW4gY2xhc3M9IndzIj4gICAgICAgICAgICA8L3NwYW4+cmVxdWVzdF9zdGFydGVkLnNlbmQoc2VsZiwgX2FzeW5jX3dyYXBwZXI9c2VsZi5lbnN1cmVfc3luYyk8L3ByZT4KPHByZSBjbGFzcz0ibGluZSBiZWZvcmUiPjxzcGFuIGNsYXNzPSJ3cyI+ICAgICAgICAgICAgPC9zcGFuPnJ2ID0gc2VsZi5wcmVwcm9jZXNzX3JlcXVlc3QoKTwvcHJlPgo8cHJlIGNsYXNzPSJsaW5lIGJlZm9yZSI+PHNwYW4gY2xhc3M9IndzIj4gICAgICAgICAgICA8L3NwYW4+aWYgcnYgaXMgTm9uZTo8L3ByZT4KPHByZSBjbGFzcz0ibGluZSBjdXJyZW50Ij48c3BhbiBjbGFzcz0id3MiPiAgICAgICAgICAgICAgICA8L3NwYW4+cnYgPSBzZWxmLmRpc3BhdGNoX3JlcXVlc3QoKQo8c3BhbiBjbGFzcz0id3MiPiAgICAgICAgICAgICAgICA8L3NwYW4+ICAgICBeXl5eXl5eXl5eXl5eXl5eXl5eXl5eXjwvcHJlPgo8cHJlIGNsYXNzPSJsaW5lIGFmdGVyIj48c3BhbiBjbGFzcz0id3MiPiAgICAgICAgPC9zcGFuPmV4Y2VwdCBFeGNlcHRpb24gYXMgZTo8L3ByZT4KPHByZSBjbGFzcz0ibGluZSBhZnRlciI+PHNwYW4gY2xhc3M9IndzIj4gICAgICAgICAgICA8L3NwYW4+cnYgPSBzZWxmLmhhbmRsZV91c2VyX2V4Y2VwdGlvbihlKTwvcHJlPgo8cHJlIGNsYXNzPSJsaW5lIGFmdGVyIj48c3BhbiBjbGFzcz0id3MiPiAgICAgICAgPC9zcGFuPnJldHVybiBzZWxmLmZpbmFsaXplX3JlcXVlc3QocnYpPC9wcmU+CjxwcmUgY2xhc3M9ImxpbmUgYWZ0ZXIiPjxzcGFuIGNsYXNzPSJ3cyI+PC9zcGFuPiA8L3ByZT4KPHByZSBjbGFzcz0ibGluZSBhZnRlciI+PHNwYW4gY2xhc3M9IndzIj4gICAgPC9zcGFuPmRlZiBmaW5hbGl6ZV9yZXF1ZXN0KDwvcHJlPjwvZGl2Pgo8L2Rpdj4KCjxsaT48ZGl2IGNsYXNzPSJmcmFtZSIgaWQ9ImZyYW1lLTE2MDE3MDA3MDgxNjAiPgogIDxoND5GaWxlIDxjaXRlIGNsYXNzPSJmaWxlbmFtZSI+IkM6XFVzZXJzXGhlcnNoXFB5Y2hhcm1Qcm9qZWN0c1xmYXN0QXBpUHJvamVjdFwudmVudlxMaWJcc2l0ZS1wYWNrYWdlc1xmbGFza1xhcHAucHkiPC9jaXRlPiwKICAgICAgbGluZSA8ZW0gY2xhc3M9ImxpbmUiPjkwMjwvZW0+LAogICAgICBpbiA8Y29kZSBjbGFzcz0iZnVuY3Rpb24iPmRpc3BhdGNoX3JlcXVlc3Q8L2NvZGU+PC9oND4KICA8ZGl2IGNsYXNzPSJzb3VyY2UgbGlicmFyeSI+PHByZSBjbGFzcz0ibGluZSBiZWZvcmUiPjxzcGFuIGNsYXNzPSJ3cyI+ICAgICAgICAgICAgPC9zcGFuPmFuZCByZXEubWV0aG9kID09ICYjMzQ7T1BUSU9OUyYjMzQ7PC9wcmU+CjxwcmUgY2xhc3M9ImxpbmUgYmVmb3JlIj48c3BhbiBjbGFzcz0id3MiPiAgICAgICAgPC9zcGFuPik6PC9wcmU+CjxwcmUgY2xhc3M9ImxpbmUgYmVmb3JlIj48c3BhbiBjbGFzcz0id3MiPiAgICAgICAgICAgIDwvc3Bhbj5yZXR1cm4gc2VsZi5tYWtlX2RlZmF1bHRfb3B0aW9uc19yZXNwb25zZSgpPC9wcmU+CjxwcmUgY2xhc3M9ImxpbmUgYmVmb3JlIj48c3BhbiBjbGFzcz0id3MiPiAgICAgICAgPC9zcGFuPiMgb3RoZXJ3aXNlIGRpc3BhdGNoIHRvIHRoZSBoYW5kbGVyIGZvciB0aGF0IGVuZHBvaW50PC9wcmU+CjxwcmUgY2xhc3M9ImxpbmUgYmVmb3JlIj48c3BhbiBjbGFzcz0id3MiPiAgICAgICAgPC9zcGFuPnZpZXdfYXJnczogZGljdFtzdHIsIHQuQW55XSA9IHJlcS52aWV3X2FyZ3MgICMgdHlwZTogaWdub3JlW2Fzc2lnbm1lbnRdPC9wcmU+CjxwcmUgY2xhc3M9ImxpbmUgY3VycmVudCI+PHNwYW4gY2xhc3M9IndzIj4gICAgICAgIDwvc3Bhbj5yZXR1cm4gc2VsZi5lbnN1cmVfc3luYyhzZWxmLnZpZXdfZnVuY3Rpb25zW3J1bGUuZW5kcG9pbnRdKSgqKnZpZXdfYXJncykgICMgdHlwZTogaWdub3JlW25vLWFueS1yZXR1cm5dCjxzcGFuIGNsYXNzPSJ3cyI+ICAgICAgICA8L3NwYW4+ICAgICAgIF5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5ePC9wcmU+CjxwcmUgY2xhc3M9ImxpbmUgYWZ0ZXIiPjxzcGFuIGNsYXNzPSJ3cyI+PC9zcGFuPiA8L3ByZT4KPHByZSBjbGFzcz0ibGluZSBhZnRlciI+PHNwYW4gY2xhc3M9IndzIj4gICAgPC9zcGFuPmRlZiBmdWxsX2Rpc3BhdGNoX3JlcXVlc3Qoc2VsZikgLSZndDsgUmVzcG9uc2U6PC9wcmU+CjxwcmUgY2xhc3M9ImxpbmUgYWZ0ZXIiPjxzcGFuIGNsYXNzPSJ3cyI+ICAgICAgICA8L3NwYW4+JiMzNDsmIzM0OyYjMzQ7RGlzcGF0Y2hlcyB0aGUgcmVxdWVzdCBhbmQgb24gdG9wIG9mIHRoYXQgcGVyZm9ybXMgcmVxdWVzdDwvcHJlPgo8cHJlIGNsYXNzPSJsaW5lIGFmdGVyIj48c3BhbiBjbGFzcz0id3MiPiAgICAgICAgPC9zcGFuPnByZSBhbmQgcG9zdHByb2Nlc3NpbmcgYXMgd2VsbCBhcyBIVFRQIGV4Y2VwdGlvbiBjYXRjaGluZyBhbmQ8L3ByZT4KPHByZSBjbGFzcz0ibGluZSBhZnRlciI+PHNwYW4gY2xhc3M9IndzIj4gICAgICAgIDwvc3Bhbj5lcnJvciBoYW5kbGluZy48L3ByZT48L2Rpdj4KPC9kaXY+Cgo8bGk+PGRpdiBjbGFzcz0iZnJhbWUiIGlkPSJmcmFtZS0xNjAxNzA1MzQ1MDg4Ij4KICA8aDQ+RmlsZSA8Y2l0ZSBjbGFzcz0iZmlsZW5hbWUiPiJDOlxVc2Vyc1xoZXJzaFxQeWNoYXJtUHJvamVjdHNcc2Rna3Vcb2xkZXItcHJvamVjdHNcc2VydmVyXHNlcnZlci5weSI8L2NpdGU+LAogICAgICBsaW5lIDxlbSBjbGFzcz0ibGluZSI+Njk8L2VtPiwKICAgICAgaW4gPGNvZGUgY2xhc3M9ImZ1bmN0aW9uIj5kZWxldGVfcHJvZHVjdDwvY29kZT48L2g0PgogIDxkaXYgY2xhc3M9InNvdXJjZSAiPjxwcmUgY2xhc3M9ImxpbmUgYmVmb3JlIj48c3BhbiBjbGFzcz0id3MiPjwvc3Bhbj4gPC9wcmU+CjxwcmUgY2xhc3M9ImxpbmUgYmVmb3JlIj48c3BhbiBjbGFzcz0id3MiPjwvc3Bhbj5AYXBwLmRlbGV0ZSgmIzM0Oy9hcGkvcHJvZHVjdHMvJmx0O2ludDppbmRleCZndDsmIzM0Oyk8L3ByZT4KPHByZSBjbGFzcz0ibGluZSBiZWZvcmUiPjxzcGFuIGNsYXNzPSJ3cyI+PC9zcGFuPmRlZiBkZWxldGVfcHJvZHVjdChpbmRleCk6PC9wcmU+CjxwcmUgY2xhc3M9ImxpbmUgYmVmb3JlIj48c3BhbiBjbGFzcz0id3MiPiAgICAgICAgPC9zcGFuPnByaW50KGYmIzM0O2RlbGV0ZToge2luZGV4fSYjMzQ7KTwvcHJlPgo8cHJlIGNsYXNzPSJsaW5lIGJlZm9yZSI+PHNwYW4gY2xhc3M9IndzIj48L3NwYW4+IDwvcHJlPgo8cHJlIGNsYXNzPSJsaW5lIGN1cnJlbnQiPjxzcGFuIGNsYXNzPSJ3cyI+ICAgICAgICA8L3NwYW4+aWYgaW5kZXggJmd0Oz0wIGFuZCBpbmRleCAmbHQ7IGxlbihwcm9kdWN0cyk6CjxzcGFuIGNsYXNzPSJ3cyI+ICAgICAgICA8L3NwYW4+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBeXl5eXl5eXjwvcHJlPgo8cHJlIGNsYXNzPSJsaW5lIGFmdGVyIj48c3BhbiBjbGFzcz0id3MiPiAgICAgICAgICAgIDwvc3Bhbj5kZWxldGVkX3Byb2R1Y3QgPSBwcm9kdWN0cy5wb3AoaW5kZXgpPC9wcmU+CjxwcmUgY2xhc3M9ImxpbmUgYWZ0ZXIiPjxzcGFuIGNsYXNzPSJ3cyI+ICAgICAgICAgICAgPC9zcGFuPnJldHVybiBqc29uLmR1bXBzKGRlbGV0ZWRfcHJvZHVjdCk8L3ByZT4KPHByZSBjbGFzcz0ibGluZSBhZnRlciI+PHNwYW4gY2xhc3M9IndzIj4gICAgICAgIDwvc3Bhbj5lbHNlOjwvcHJlPgo8cHJlIGNsYXNzPSJsaW5lIGFmdGVyIj48c3BhbiBjbGFzcz0id3MiPiAgICAgICAgICAgIDwvc3Bhbj5yZXR1cm4gJiMzNDtUaGF0IGluZGV4IGRvZXMgbm90IGV4aXN0JiMzNDs8L3ByZT4KPHByZSBjbGFzcz0ibGluZSBhZnRlciI+PHNwYW4gY2xhc3M9IndzIj48L3NwYW4+IDwvcHJlPjwvZGl2Pgo8L2Rpdj4KPC91bD4KICA8YmxvY2txdW90ZT5OYW1lRXJyb3I6IG5hbWUgJiMzOTtwcm9kdWN0cyYjMzk7IGlzIG5vdCBkZWZpbmVkCjwvYmxvY2txdW90ZT4KPC9kaXY+Cgo8ZGl2IGNsYXNzPSJwbGFpbiI+CiAgICA8cD4KICAgICAgVGhpcyBpcyB0aGUgQ29weS9QYXN0ZSBmcmllbmRseSB2ZXJzaW9uIG9mIHRoZSB0cmFjZWJhY2suCiAgICA8L3A+CiAgICA8dGV4dGFyZWEgY29scz0iNTAiIHJvd3M9IjEwIiBuYW1lPSJjb2RlIiByZWFkb25seT5UcmFjZWJhY2sgKG1vc3QgcmVjZW50IGNhbGwgbGFzdCk6CiAgRmlsZSAmIzM0O0M6XFVzZXJzXGhlcnNoXFB5Y2hhcm1Qcm9qZWN0c1xmYXN0QXBpUHJvamVjdFwudmVudlxMaWJcc2l0ZS1wYWNrYWdlc1xmbGFza1xhcHAucHkmIzM0OywgbGluZSAxNTM2LCBpbiBfX2NhbGxfXwogICAgcmV0dXJuIHNlbGYud3NnaV9hcHAoZW52aXJvbiwgc3RhcnRfcmVzcG9uc2UpCiAgICAgICAgICAgXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl4KICBGaWxlICYjMzQ7QzpcVXNlcnNcaGVyc2hcUHljaGFybVByb2plY3RzXGZhc3RBcGlQcm9qZWN0XC52ZW52XExpYlxzaXRlLXBhY2thZ2VzXGZsYXNrXGFwcC5weSYjMzQ7LCBsaW5lIDE1MTQsIGluIHdzZ2lfYXBwCiAgICByZXNwb25zZSA9IHNlbGYuaGFuZGxlX2V4Y2VwdGlvbihlKQogICAgICAgICAgICAgICBeXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl4KICBGaWxlICYjMzQ7QzpcVXNlcnNcaGVyc2hcUHljaGFybVByb2plY3RzXGZhc3RBcGlQcm9qZWN0XC52ZW52XExpYlxzaXRlLXBhY2thZ2VzXGZsYXNrXGFwcC5weSYjMzQ7LCBsaW5lIDE1MTEsIGluIHdzZ2lfYXBwCiAgICByZXNwb25zZSA9IHNlbGYuZnVsbF9kaXNwYXRjaF9yZXF1ZXN0KCkKICAgICAgICAgICAgICAgXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXgogIEZpbGUgJiMzNDtDOlxVc2Vyc1xoZXJzaFxQeWNoYXJtUHJvamVjdHNcZmFzdEFwaVByb2plY3RcLnZlbnZcTGliXHNpdGUtcGFja2FnZXNcZmxhc2tcYXBwLnB5JiMzNDssIGxpbmUgOTE5LCBpbiBmdWxsX2Rpc3BhdGNoX3JlcXVlc3QKICAgIHJ2ID0gc2VsZi5oYW5kbGVfdXNlcl9leGNlcHRpb24oZSkKICAgICAgICAgXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl4KICBGaWxlICYjMzQ7QzpcVXNlcnNcaGVyc2hcUHljaGFybVByb2plY3RzXGZhc3RBcGlQcm9qZWN0XC52ZW52XExpYlxzaXRlLXBhY2thZ2VzXGZsYXNrXGFwcC5weSYjMzQ7LCBsaW5lIDkxNywgaW4gZnVsbF9kaXNwYXRjaF9yZXF1ZXN0CiAgICBydiA9IHNlbGYuZGlzcGF0Y2hfcmVxdWVzdCgpCiAgICAgICAgIF5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eCiAgRmlsZSAmIzM0O0M6XFVzZXJzXGhlcnNoXFB5Y2hhcm1Qcm9qZWN0c1xmYXN0QXBpUHJvamVjdFwudmVudlxMaWJcc2l0ZS1wYWNrYWdlc1xmbGFza1xhcHAucHkmIzM0OywgbGluZSA5MDIsIGluIGRpc3BhdGNoX3JlcXVlc3QKICAgIHJldHVybiBzZWxmLmVuc3VyZV9zeW5jKHNlbGYudmlld19mdW5jdGlvbnNbcnVsZS5lbmRwb2ludF0pKCoqdmlld19hcmdzKSAgIyB0eXBlOiBpZ25vcmVbbm8tYW55LXJldHVybl0KICAgICAgICAgICBeXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl4KICBGaWxlICYjMzQ7QzpcVXNlcnNcaGVyc2hcUHljaGFybVByb2plY3RzXHNkZ2t1XG9sZGVyLXByb2plY3RzXHNlcnZlclxzZXJ2ZXIucHkmIzM0OywgbGluZSA2OSwgaW4gZGVsZXRlX3Byb2R1Y3QKICAgIGlmIGluZGV4ICZndDs9MCBhbmQgaW5kZXggJmx0OyBsZW4ocHJvZHVjdHMpOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBeXl5eXl5eXl5eCk5hbWVFcnJvcjogbmFtZSAmIzM5O3Byb2R1Y3RzJiMzOTsgaXMgbm90IGRlZmluZWQKPC90ZXh0YXJlYT4KPC9kaXY+CjxkaXYgY2xhc3M9ImV4cGxhbmF0aW9uIj4KICBUaGUgZGVidWdnZXIgY2F1Z2h0IGFuIGV4Y2VwdGlvbiBpbiB5b3VyIFdTR0kgYXBwbGljYXRpb24uICBZb3UgY2FuIG5vdwogIGxvb2sgYXQgdGhlIHRyYWNlYmFjayB3aGljaCBsZWQgdG8gdGhlIGVycm9yLiAgPHNwYW4gY2xhc3M9Im5vamF2YXNjcmlwdCI+CiAgSWYgeW91IGVuYWJsZSBKYXZhU2NyaXB0IHlvdSBjYW4gYWxzbyB1c2UgYWRkaXRpb25hbCBmZWF0dXJlcyBzdWNoIGFzIGNvZGUKICBleGVjdXRpb24gKGlmIHRoZSBldmFsZXggZmVhdHVyZSBpcyBlbmFibGVkKSwgYXV0b21hdGljIHBhc3Rpbmcgb2YgdGhlCiAgZXhjZXB0aW9ucyBhbmQgbXVjaCBtb3JlLjwvc3Bhbj4KPC9kaXY+CiAgICAgIDxkaXYgY2xhc3M9ImZvb3RlciI+CiAgICAgICAgQnJvdWdodCB0byB5b3UgYnkgPHN0cm9uZyBjbGFzcz0iYXJ0aHVyIj5ET04nVCBQQU5JQzwvc3Ryb25nPiwgeW91cgogICAgICAgIGZyaWVuZGx5IFdlcmt6ZXVnIHBvd2VyZWQgdHJhY2ViYWNrIGludGVycHJldGVyLgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgoKICAgIDxkaXYgY2xhc3M9InBpbi1wcm9tcHQiPgogICAgICA8ZGl2IGNsYXNzPSJpbm5lciI+CiAgICAgICAgPGgzPkNvbnNvbGUgTG9ja2VkPC9oMz4KICAgICAgICA8cD4KICAgICAgICAgIFRoZSBjb25zb2xlIGlzIGxvY2tlZCBhbmQgbmVlZHMgdG8gYmUgdW5sb2NrZWQgYnkgZW50ZXJpbmcgdGhlIFBJTi4KICAgICAgICAgIFlvdSBjYW4gZmluZCB0aGUgUElOIHByaW50ZWQgb3V0IG9uIHRoZSBzdGFuZGFyZCBvdXRwdXQgb2YgeW91cgogICAgICAgICAgc2hlbGwgdGhhdCBydW5zIHRoZSBzZXJ2ZXIuCiAgICAgICAgPGZvcm0+CiAgICAgICAgICA8cD5QSU46CiAgICAgICAgICAgIDxpbnB1dCB0eXBlPXRleHQgbmFtZT1waW4gc2l6ZT0xND4KICAgICAgICAgICAgPGlucHV0IHR5cGU9c3VibWl0IG5hbWU9YnRuIHZhbHVlPSJDb25maXJtIFBpbiI+CiAgICAgICAgPC9mb3JtPgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogIDwvYm9keT4KPC9odG1sPgoKPCEtLQoKVHJhY2ViYWNrIChtb3N0IHJlY2VudCBjYWxsIGxhc3QpOgogIEZpbGUgIkM6XFVzZXJzXGhlcnNoXFB5Y2hhcm1Qcm9qZWN0c1xmYXN0QXBpUHJvamVjdFwudmVudlxMaWJcc2l0ZS1wYWNrYWdlc1xmbGFza1xhcHAucHkiLCBsaW5lIDE1MzYsIGluIF9fY2FsbF9fCiAgICByZXR1cm4gc2VsZi53c2dpX2FwcChlbnZpcm9uLCBzdGFydF9yZXNwb25zZSkKICAgICAgICAgICBeXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXgogIEZpbGUgIkM6XFVzZXJzXGhlcnNoXFB5Y2hhcm1Qcm9qZWN0c1xmYXN0QXBpUHJvamVjdFwudmVudlxMaWJcc2l0ZS1wYWNrYWdlc1xmbGFza1xhcHAucHkiLCBsaW5lIDE1MTQsIGluIHdzZ2lfYXBwCiAgICByZXNwb25zZSA9IHNlbGYuaGFuZGxlX2V4Y2VwdGlvbihlKQogICAgICAgICAgICAgICBeXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl4KICBGaWxlICJDOlxVc2Vyc1xoZXJzaFxQeWNoYXJtUHJvamVjdHNcZmFzdEFwaVByb2plY3RcLnZlbnZcTGliXHNpdGUtcGFja2FnZXNcZmxhc2tcYXBwLnB5IiwgbGluZSAxNTExLCBpbiB3c2dpX2FwcAogICAgcmVzcG9uc2UgPSBzZWxmLmZ1bGxfZGlzcGF0Y2hfcmVxdWVzdCgpCiAgICAgICAgICAgICAgIF5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl4KICBGaWxlICJDOlxVc2Vyc1xoZXJzaFxQeWNoYXJtUHJvamVjdHNcZmFzdEFwaVByb2plY3RcLnZlbnZcTGliXHNpdGUtcGFja2FnZXNcZmxhc2tcYXBwLnB5IiwgbGluZSA5MTksIGluIGZ1bGxfZGlzcGF0Y2hfcmVxdWVzdAogICAgcnYgPSBzZWxmLmhhbmRsZV91c2VyX2V4Y2VwdGlvbihlKQogICAgICAgICBeXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXgogIEZpbGUgIkM6XFVzZXJzXGhlcnNoXFB5Y2hhcm1Qcm9qZWN0c1xmYXN0QXBpUHJvamVjdFwudmVudlxMaWJcc2l0ZS1wYWNrYWdlc1xmbGFza1xhcHAucHkiLCBsaW5lIDkxNywgaW4gZnVsbF9kaXNwYXRjaF9yZXF1ZXN0CiAgICBydiA9IHNlbGYuZGlzcGF0Y2hfcmVxdWVzdCgpCiAgICAgICAgIF5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eCiAgRmlsZSAiQzpcVXNlcnNcaGVyc2hcUHljaGFybVByb2plY3RzXGZhc3RBcGlQcm9qZWN0XC52ZW52XExpYlxzaXRlLXBhY2thZ2VzXGZsYXNrXGFwcC5weSIsIGxpbmUgOTAyLCBpbiBkaXNwYXRjaF9yZXF1ZXN0CiAgICByZXR1cm4gc2VsZi5lbnN1cmVfc3luYyhzZWxmLnZpZXdfZnVuY3Rpb25zW3J1bGUuZW5kcG9pbnRdKSgqKnZpZXdfYXJncykgICMgdHlwZTogaWdub3JlW25vLWFueS1yZXR1cm5dCiAgICAgICAgICAgXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eCiAgRmlsZSAiQzpcVXNlcnNcaGVyc2hcUHljaGFybVByb2plY3RzXHNkZ2t1XG9sZGVyLXByb2plY3RzXHNlcnZlclxzZXJ2ZXIucHkiLCBsaW5lIDY5LCBpbiBkZWxldGVfcHJvZHVjdAogICAgaWYgaW5kZXggPj0wIGFuZCBpbmRleCA8IGxlbihwcm9kdWN0cyk6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF5eXl5eXl5eXl4KTmFtZUVycm9yOiBuYW1lICdwcm9kdWN0cycgaXMgbm90IGRlZmluZWQKCgotLT4K" />
+              <option name="bodyString" value="&lt;!doctype html&gt;&#10;&lt;html lang=en&gt;&#10;  &lt;head&gt;&#10;    &lt;title&gt;NameError: name &amp;#39;products&amp;#39; is not defined&#10; // Werkzeug Debugger&lt;/title&gt;&#10;    &lt;link rel=&quot;stylesheet&quot; href=&quot;?__debugger__=yes&amp;amp;cmd=resource&amp;amp;f=style.css&quot;&gt;&#10;    &lt;link rel=&quot;shortcut icon&quot;&#10;        href=&quot;?__debugger__=yes&amp;amp;cmd=resource&amp;amp;f=console.png&quot;&gt;&#10;    &lt;script src=&quot;?__debugger__=yes&amp;amp;cmd=resource&amp;amp;f=debugger.js&quot;&gt;&lt;/script&gt;&#10;    &lt;script&gt;&#10;      var CONSOLE_MODE = false,&#10;          EVALEX = true,&#10;          EVALEX_TRUSTED = false,&#10;          SECRET = &quot;VScGJiIiMXr2wYi5IUK9&quot;;&#10;    &lt;/script&gt;&#10;  &lt;/head&gt;&#10;  &lt;body style=&quot;background-color: #fff&quot;&gt;&#10;    &lt;div class=&quot;debugger&quot;&gt;&#10;&lt;h1&gt;NameError&lt;/h1&gt;&#10;&lt;div class=&quot;detail&quot;&gt;&#10;  &lt;p class=&quot;errormsg&quot;&gt;NameError: name &amp;#39;products&amp;#39; is not defined&#10;&lt;/p&gt;&#10;&lt;/div&gt;&#10;&lt;h2 class=&quot;traceback&quot;&gt;Traceback &lt;em&gt;(most recent call last)&lt;/em&gt;&lt;/h2&gt;&#10;&lt;div class=&quot;traceback&quot;&gt;&#10;  &lt;h3&gt;&lt;/h3&gt;&#10;  &lt;ul&gt;&lt;li&gt;&lt;div class=&quot;frame&quot; id=&quot;frame-1601700706864&quot;&gt;&#10;  &lt;h4&gt;File &lt;cite class=&quot;filename&quot;&gt;&quot;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&quot;&lt;/cite&gt;,&#10;      line &lt;em class=&quot;line&quot;&gt;1536&lt;/em&gt;,&#10;      in &lt;code class=&quot;function&quot;&gt;__call__&lt;/code&gt;&lt;/h4&gt;&#10;  &lt;div class=&quot;source library&quot;&gt;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;    &lt;/span&gt;) -&amp;gt; cabc.Iterable[bytes]:&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;&amp;#34;&amp;#34;&amp;#34;The WSGI server calls the Flask application object as the&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;WSGI application. This calls :meth:`wsgi_app`, which can be&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;wrapped to apply middleware.&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;&amp;#34;&amp;#34;&amp;#34;&lt;/pre&gt;&#10;&lt;pre class=&quot;line current&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;return self.wsgi_app(environ, start_response)&#10;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&lt;/pre&gt;&lt;/div&gt;&#10;&lt;/div&gt;&#10;&#10;&lt;li&gt;&lt;div class=&quot;frame&quot; id=&quot;frame-1601700707584&quot;&gt;&#10;  &lt;h4&gt;File &lt;cite class=&quot;filename&quot;&gt;&quot;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&quot;&lt;/cite&gt;,&#10;      line &lt;em class=&quot;line&quot;&gt;1514&lt;/em&gt;,&#10;      in &lt;code class=&quot;function&quot;&gt;wsgi_app&lt;/code&gt;&lt;/h4&gt;&#10;  &lt;div class=&quot;source library&quot;&gt;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;try:&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;ctx.push()&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;response = self.full_dispatch_request()&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;except Exception as e:&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;error = e&lt;/pre&gt;&#10;&lt;pre class=&quot;line current&quot;&gt;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;response = self.handle_exception(e)&#10;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;           ^^^^^^^^^^^^^^^^^^^^^^^^&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;except:  # noqa: B001&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;error = sys.exc_info()[1]&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;raise&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;return response(environ, start_response)&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;finally:&lt;/pre&gt;&lt;/div&gt;&#10;&lt;/div&gt;&#10;&#10;&lt;li&gt;&lt;div class=&quot;frame&quot; id=&quot;frame-1601700707728&quot;&gt;&#10;  &lt;h4&gt;File &lt;cite class=&quot;filename&quot;&gt;&quot;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&quot;&lt;/cite&gt;,&#10;      line &lt;em class=&quot;line&quot;&gt;1511&lt;/em&gt;,&#10;      in &lt;code class=&quot;function&quot;&gt;wsgi_app&lt;/code&gt;&lt;/h4&gt;&#10;  &lt;div class=&quot;source library&quot;&gt;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;ctx = self.request_context(environ)&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;error: BaseException | None = None&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;try:&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;try:&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;ctx.push()&lt;/pre&gt;&#10;&lt;pre class=&quot;line current&quot;&gt;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;response = self.full_dispatch_request()&#10;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;except Exception as e:&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;error = e&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;response = self.handle_exception(e)&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;except:  # noqa: B001&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;error = sys.exc_info()[1]&lt;/pre&gt;&lt;/div&gt;&#10;&lt;/div&gt;&#10;&#10;&lt;li&gt;&lt;div class=&quot;frame&quot; id=&quot;frame-1601700707872&quot;&gt;&#10;  &lt;h4&gt;File &lt;cite class=&quot;filename&quot;&gt;&quot;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&quot;&lt;/cite&gt;,&#10;      line &lt;em class=&quot;line&quot;&gt;919&lt;/em&gt;,&#10;      in &lt;code class=&quot;function&quot;&gt;full_dispatch_request&lt;/code&gt;&lt;/h4&gt;&#10;  &lt;div class=&quot;source library&quot;&gt;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;request_started.send(self, _async_wrapper=self.ensure_sync)&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;rv = self.preprocess_request()&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;if rv is None:&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;rv = self.dispatch_request()&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;except Exception as e:&lt;/pre&gt;&#10;&lt;pre class=&quot;line current&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;rv = self.handle_user_exception(e)&#10;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;return self.finalize_request(rv)&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;&lt;/span&gt; &lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;    &lt;/span&gt;def finalize_request(&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;self,&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;rv: ft.ResponseReturnValue | HTTPException,&lt;/pre&gt;&lt;/div&gt;&#10;&lt;/div&gt;&#10;&#10;&lt;li&gt;&lt;div class=&quot;frame&quot; id=&quot;frame-1601700708016&quot;&gt;&#10;  &lt;h4&gt;File &lt;cite class=&quot;filename&quot;&gt;&quot;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&quot;&lt;/cite&gt;,&#10;      line &lt;em class=&quot;line&quot;&gt;917&lt;/em&gt;,&#10;      in &lt;code class=&quot;function&quot;&gt;full_dispatch_request&lt;/code&gt;&lt;/h4&gt;&#10;  &lt;div class=&quot;source library&quot;&gt;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;&lt;/span&gt; &lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;try:&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;request_started.send(self, _async_wrapper=self.ensure_sync)&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;rv = self.preprocess_request()&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;if rv is None:&lt;/pre&gt;&#10;&lt;pre class=&quot;line current&quot;&gt;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;rv = self.dispatch_request()&#10;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;     ^^^^^^^^^^^^^^^^^^^^^^^&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;except Exception as e:&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;rv = self.handle_user_exception(e)&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;return self.finalize_request(rv)&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;&lt;/span&gt; &lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;    &lt;/span&gt;def finalize_request(&lt;/pre&gt;&lt;/div&gt;&#10;&lt;/div&gt;&#10;&#10;&lt;li&gt;&lt;div class=&quot;frame&quot; id=&quot;frame-1601700708160&quot;&gt;&#10;  &lt;h4&gt;File &lt;cite class=&quot;filename&quot;&gt;&quot;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&quot;&lt;/cite&gt;,&#10;      line &lt;em class=&quot;line&quot;&gt;902&lt;/em&gt;,&#10;      in &lt;code class=&quot;function&quot;&gt;dispatch_request&lt;/code&gt;&lt;/h4&gt;&#10;  &lt;div class=&quot;source library&quot;&gt;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;and req.method == &amp;#34;OPTIONS&amp;#34;&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;):&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;return self.make_default_options_response()&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;# otherwise dispatch to the handler for that endpoint&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;view_args: dict[str, t.Any] = req.view_args  # type: ignore[assignment]&lt;/pre&gt;&#10;&lt;pre class=&quot;line current&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]&#10;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;&lt;/span&gt; &lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;    &lt;/span&gt;def full_dispatch_request(self) -&amp;gt; Response:&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;&amp;#34;&amp;#34;&amp;#34;Dispatches the request and on top of that performs request&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;pre and postprocessing as well as HTTP exception catching and&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;error handling.&lt;/pre&gt;&lt;/div&gt;&#10;&lt;/div&gt;&#10;&#10;&lt;li&gt;&lt;div class=&quot;frame&quot; id=&quot;frame-1601705345088&quot;&gt;&#10;  &lt;h4&gt;File &lt;cite class=&quot;filename&quot;&gt;&quot;C:\Users\hersh\PycharmProjects\sdgku\older-projects\server\server.py&quot;&lt;/cite&gt;,&#10;      line &lt;em class=&quot;line&quot;&gt;69&lt;/em&gt;,&#10;      in &lt;code class=&quot;function&quot;&gt;delete_product&lt;/code&gt;&lt;/h4&gt;&#10;  &lt;div class=&quot;source &quot;&gt;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;&lt;/span&gt; &lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;&lt;/span&gt;@app.delete(&amp;#34;/api/products/&amp;lt;int:index&amp;gt;&amp;#34;)&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;&lt;/span&gt;def delete_product(index):&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;print(f&amp;#34;delete: {index}&amp;#34;)&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;&lt;/span&gt; &lt;/pre&gt;&#10;&lt;pre class=&quot;line current&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;if index &amp;gt;=0 and index &amp;lt; len(products):&#10;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;                             ^^^^^^^^&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;deleted_product = products.pop(index)&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;return json.dumps(deleted_product)&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;else:&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;return &amp;#34;That index does not exist&amp;#34;&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;&lt;/span&gt; &lt;/pre&gt;&lt;/div&gt;&#10;&lt;/div&gt;&#10;&lt;/ul&gt;&#10;  &lt;blockquote&gt;NameError: name &amp;#39;products&amp;#39; is not defined&#10;&lt;/blockquote&gt;&#10;&lt;/div&gt;&#10;&#10;&lt;div class=&quot;plain&quot;&gt;&#10;    &lt;p&gt;&#10;      This is the Copy/Paste friendly version of the traceback.&#10;    &lt;/p&gt;&#10;    &lt;textarea cols=&quot;50&quot; rows=&quot;10&quot; name=&quot;code&quot; readonly&gt;Traceback (most recent call last):&#10;  File &amp;#34;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&amp;#34;, line 1536, in __call__&#10;    return self.wsgi_app(environ, start_response)&#10;           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &amp;#34;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&amp;#34;, line 1514, in wsgi_app&#10;    response = self.handle_exception(e)&#10;               ^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &amp;#34;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&amp;#34;, line 1511, in wsgi_app&#10;    response = self.full_dispatch_request()&#10;               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &amp;#34;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&amp;#34;, line 919, in full_dispatch_request&#10;    rv = self.handle_user_exception(e)&#10;         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &amp;#34;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&amp;#34;, line 917, in full_dispatch_request&#10;    rv = self.dispatch_request()&#10;         ^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &amp;#34;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&amp;#34;, line 902, in dispatch_request&#10;    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]&#10;           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &amp;#34;C:\Users\hersh\PycharmProjects\sdgku\older-projects\server\server.py&amp;#34;, line 69, in delete_product&#10;    if index &amp;gt;=0 and index &amp;lt; len(products):&#10;                                 ^^^^^^^^^^&#10;NameError: name &amp;#39;products&amp;#39; is not defined&#10;&lt;/textarea&gt;&#10;&lt;/div&gt;&#10;&lt;div class=&quot;explanation&quot;&gt;&#10;  The debugger caught an exception in your WSGI application.  You can now&#10;  look at the traceback which led to the error.  &lt;span class=&quot;nojavascript&quot;&gt;&#10;  If you enable JavaScript you can also use additional features such as code&#10;  execution (if the evalex feature is enabled), automatic pasting of the&#10;  exceptions and much more.&lt;/span&gt;&#10;&lt;/div&gt;&#10;      &lt;div class=&quot;footer&quot;&gt;&#10;        Brought to you by &lt;strong class=&quot;arthur&quot;&gt;DON'T PANIC&lt;/strong&gt;, your&#10;        friendly Werkzeug powered traceback interpreter.&#10;      &lt;/div&gt;&#10;    &lt;/div&gt;&#10;&#10;    &lt;div class=&quot;pin-prompt&quot;&gt;&#10;      &lt;div class=&quot;inner&quot;&gt;&#10;        &lt;h3&gt;Console Locked&lt;/h3&gt;&#10;        &lt;p&gt;&#10;          The console is locked and needs to be unlocked by entering the PIN.&#10;          You can find the PIN printed out on the standard output of your&#10;          shell that runs the server.&#10;        &lt;form&gt;&#10;          &lt;p&gt;PIN:&#10;            &lt;input type=text name=pin size=14&gt;&#10;            &lt;input type=submit name=btn value=&quot;Confirm Pin&quot;&gt;&#10;        &lt;/form&gt;&#10;      &lt;/div&gt;&#10;    &lt;/div&gt;&#10;  &lt;/body&gt;&#10;&lt;/html&gt;&#10;&#10;&lt;!--&#10;&#10;Traceback (most recent call last):&#10;  File &quot;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&quot;, line 1536, in __call__&#10;    return self.wsgi_app(environ, start_response)&#10;           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &quot;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&quot;, line 1514, in wsgi_app&#10;    response = self.handle_exception(e)&#10;               ^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &quot;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&quot;, line 1511, in wsgi_app&#10;    response = self.full_dispatch_request()&#10;               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &quot;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&quot;, line 919, in full_dispatch_request&#10;    rv = self.handle_user_exception(e)&#10;         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &quot;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&quot;, line 917, in full_dispatch_request&#10;    rv = self.dispatch_request()&#10;         ^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &quot;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&quot;, line 902, in dispatch_request&#10;    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]&#10;           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &quot;C:\Users\hersh\PycharmProjects\sdgku\older-projects\server\server.py&quot;, line 69, in delete_product&#10;    if index &gt;=0 and index &lt; len(products):&#10;                                 ^^^^^^^^^^&#10;NameError: name 'products' is not defined&#10;&#10;&#10;--&gt;&#10;" />
+              <option name="code" value="500" />
+              <option name="connectionEstablishingTime" value="1" />
+              <option name="contentType" value="text/html; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Server" />
+                    <option name="value" value="Werkzeug/3.1.3 Python/3.12.2" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 18 Jan 2025 20:57:17 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="text/html; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="14964" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="close" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="78b0de6e-3ea4-4839-82db-b32ae6d02e14" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="HTML" />
+              <option name="previewType" value="HTML" />
+              <option name="rawBodyString" value="&lt;!doctype html&gt;&#10;&lt;html lang=en&gt;&#10;  &lt;head&gt;&#10;    &lt;title&gt;NameError: name &amp;#39;products&amp;#39; is not defined&#10; // Werkzeug Debugger&lt;/title&gt;&#10;    &lt;link rel=&quot;stylesheet&quot; href=&quot;?__debugger__=yes&amp;amp;cmd=resource&amp;amp;f=style.css&quot;&gt;&#10;    &lt;link rel=&quot;shortcut icon&quot;&#10;        href=&quot;?__debugger__=yes&amp;amp;cmd=resource&amp;amp;f=console.png&quot;&gt;&#10;    &lt;script src=&quot;?__debugger__=yes&amp;amp;cmd=resource&amp;amp;f=debugger.js&quot;&gt;&lt;/script&gt;&#10;    &lt;script&gt;&#10;      var CONSOLE_MODE = false,&#10;          EVALEX = true,&#10;          EVALEX_TRUSTED = false,&#10;          SECRET = &quot;VScGJiIiMXr2wYi5IUK9&quot;;&#10;    &lt;/script&gt;&#10;  &lt;/head&gt;&#10;  &lt;body style=&quot;background-color: #fff&quot;&gt;&#10;    &lt;div class=&quot;debugger&quot;&gt;&#10;&lt;h1&gt;NameError&lt;/h1&gt;&#10;&lt;div class=&quot;detail&quot;&gt;&#10;  &lt;p class=&quot;errormsg&quot;&gt;NameError: name &amp;#39;products&amp;#39; is not defined&#10;&lt;/p&gt;&#10;&lt;/div&gt;&#10;&lt;h2 class=&quot;traceback&quot;&gt;Traceback &lt;em&gt;(most recent call last)&lt;/em&gt;&lt;/h2&gt;&#10;&lt;div class=&quot;traceback&quot;&gt;&#10;  &lt;h3&gt;&lt;/h3&gt;&#10;  &lt;ul&gt;&lt;li&gt;&lt;div class=&quot;frame&quot; id=&quot;frame-1601700706864&quot;&gt;&#10;  &lt;h4&gt;File &lt;cite class=&quot;filename&quot;&gt;&quot;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&quot;&lt;/cite&gt;,&#10;      line &lt;em class=&quot;line&quot;&gt;1536&lt;/em&gt;,&#10;      in &lt;code class=&quot;function&quot;&gt;__call__&lt;/code&gt;&lt;/h4&gt;&#10;  &lt;div class=&quot;source library&quot;&gt;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;    &lt;/span&gt;) -&amp;gt; cabc.Iterable[bytes]:&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;&amp;#34;&amp;#34;&amp;#34;The WSGI server calls the Flask application object as the&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;WSGI application. This calls :meth:`wsgi_app`, which can be&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;wrapped to apply middleware.&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;&amp;#34;&amp;#34;&amp;#34;&lt;/pre&gt;&#10;&lt;pre class=&quot;line current&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;return self.wsgi_app(environ, start_response)&#10;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&lt;/pre&gt;&lt;/div&gt;&#10;&lt;/div&gt;&#10;&#10;&lt;li&gt;&lt;div class=&quot;frame&quot; id=&quot;frame-1601700707584&quot;&gt;&#10;  &lt;h4&gt;File &lt;cite class=&quot;filename&quot;&gt;&quot;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&quot;&lt;/cite&gt;,&#10;      line &lt;em class=&quot;line&quot;&gt;1514&lt;/em&gt;,&#10;      in &lt;code class=&quot;function&quot;&gt;wsgi_app&lt;/code&gt;&lt;/h4&gt;&#10;  &lt;div class=&quot;source library&quot;&gt;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;try:&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;ctx.push()&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;response = self.full_dispatch_request()&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;except Exception as e:&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;error = e&lt;/pre&gt;&#10;&lt;pre class=&quot;line current&quot;&gt;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;response = self.handle_exception(e)&#10;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;           ^^^^^^^^^^^^^^^^^^^^^^^^&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;except:  # noqa: B001&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;error = sys.exc_info()[1]&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;raise&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;return response(environ, start_response)&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;finally:&lt;/pre&gt;&lt;/div&gt;&#10;&lt;/div&gt;&#10;&#10;&lt;li&gt;&lt;div class=&quot;frame&quot; id=&quot;frame-1601700707728&quot;&gt;&#10;  &lt;h4&gt;File &lt;cite class=&quot;filename&quot;&gt;&quot;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&quot;&lt;/cite&gt;,&#10;      line &lt;em class=&quot;line&quot;&gt;1511&lt;/em&gt;,&#10;      in &lt;code class=&quot;function&quot;&gt;wsgi_app&lt;/code&gt;&lt;/h4&gt;&#10;  &lt;div class=&quot;source library&quot;&gt;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;ctx = self.request_context(environ)&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;error: BaseException | None = None&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;try:&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;try:&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;ctx.push()&lt;/pre&gt;&#10;&lt;pre class=&quot;line current&quot;&gt;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;response = self.full_dispatch_request()&#10;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;except Exception as e:&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;error = e&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;response = self.handle_exception(e)&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;except:  # noqa: B001&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;error = sys.exc_info()[1]&lt;/pre&gt;&lt;/div&gt;&#10;&lt;/div&gt;&#10;&#10;&lt;li&gt;&lt;div class=&quot;frame&quot; id=&quot;frame-1601700707872&quot;&gt;&#10;  &lt;h4&gt;File &lt;cite class=&quot;filename&quot;&gt;&quot;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&quot;&lt;/cite&gt;,&#10;      line &lt;em class=&quot;line&quot;&gt;919&lt;/em&gt;,&#10;      in &lt;code class=&quot;function&quot;&gt;full_dispatch_request&lt;/code&gt;&lt;/h4&gt;&#10;  &lt;div class=&quot;source library&quot;&gt;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;request_started.send(self, _async_wrapper=self.ensure_sync)&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;rv = self.preprocess_request()&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;if rv is None:&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;rv = self.dispatch_request()&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;except Exception as e:&lt;/pre&gt;&#10;&lt;pre class=&quot;line current&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;rv = self.handle_user_exception(e)&#10;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;return self.finalize_request(rv)&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;&lt;/span&gt; &lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;    &lt;/span&gt;def finalize_request(&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;self,&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;rv: ft.ResponseReturnValue | HTTPException,&lt;/pre&gt;&lt;/div&gt;&#10;&lt;/div&gt;&#10;&#10;&lt;li&gt;&lt;div class=&quot;frame&quot; id=&quot;frame-1601700708016&quot;&gt;&#10;  &lt;h4&gt;File &lt;cite class=&quot;filename&quot;&gt;&quot;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&quot;&lt;/cite&gt;,&#10;      line &lt;em class=&quot;line&quot;&gt;917&lt;/em&gt;,&#10;      in &lt;code class=&quot;function&quot;&gt;full_dispatch_request&lt;/code&gt;&lt;/h4&gt;&#10;  &lt;div class=&quot;source library&quot;&gt;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;&lt;/span&gt; &lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;try:&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;request_started.send(self, _async_wrapper=self.ensure_sync)&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;rv = self.preprocess_request()&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;if rv is None:&lt;/pre&gt;&#10;&lt;pre class=&quot;line current&quot;&gt;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;rv = self.dispatch_request()&#10;&lt;span class=&quot;ws&quot;&gt;                &lt;/span&gt;     ^^^^^^^^^^^^^^^^^^^^^^^&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;except Exception as e:&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;rv = self.handle_user_exception(e)&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;return self.finalize_request(rv)&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;&lt;/span&gt; &lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;    &lt;/span&gt;def finalize_request(&lt;/pre&gt;&lt;/div&gt;&#10;&lt;/div&gt;&#10;&#10;&lt;li&gt;&lt;div class=&quot;frame&quot; id=&quot;frame-1601700708160&quot;&gt;&#10;  &lt;h4&gt;File &lt;cite class=&quot;filename&quot;&gt;&quot;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&quot;&lt;/cite&gt;,&#10;      line &lt;em class=&quot;line&quot;&gt;902&lt;/em&gt;,&#10;      in &lt;code class=&quot;function&quot;&gt;dispatch_request&lt;/code&gt;&lt;/h4&gt;&#10;  &lt;div class=&quot;source library&quot;&gt;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;and req.method == &amp;#34;OPTIONS&amp;#34;&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;):&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;return self.make_default_options_response()&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;# otherwise dispatch to the handler for that endpoint&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;view_args: dict[str, t.Any] = req.view_args  # type: ignore[assignment]&lt;/pre&gt;&#10;&lt;pre class=&quot;line current&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]&#10;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;&lt;/span&gt; &lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;    &lt;/span&gt;def full_dispatch_request(self) -&amp;gt; Response:&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;&amp;#34;&amp;#34;&amp;#34;Dispatches the request and on top of that performs request&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;pre and postprocessing as well as HTTP exception catching and&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;error handling.&lt;/pre&gt;&lt;/div&gt;&#10;&lt;/div&gt;&#10;&#10;&lt;li&gt;&lt;div class=&quot;frame&quot; id=&quot;frame-1601705345088&quot;&gt;&#10;  &lt;h4&gt;File &lt;cite class=&quot;filename&quot;&gt;&quot;C:\Users\hersh\PycharmProjects\sdgku\older-projects\server\server.py&quot;&lt;/cite&gt;,&#10;      line &lt;em class=&quot;line&quot;&gt;69&lt;/em&gt;,&#10;      in &lt;code class=&quot;function&quot;&gt;delete_product&lt;/code&gt;&lt;/h4&gt;&#10;  &lt;div class=&quot;source &quot;&gt;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;&lt;/span&gt; &lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;&lt;/span&gt;@app.delete(&amp;#34;/api/products/&amp;lt;int:index&amp;gt;&amp;#34;)&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;&lt;/span&gt;def delete_product(index):&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;print(f&amp;#34;delete: {index}&amp;#34;)&lt;/pre&gt;&#10;&lt;pre class=&quot;line before&quot;&gt;&lt;span class=&quot;ws&quot;&gt;&lt;/span&gt; &lt;/pre&gt;&#10;&lt;pre class=&quot;line current&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;if index &amp;gt;=0 and index &amp;lt; len(products):&#10;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;                             ^^^^^^^^&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;deleted_product = products.pop(index)&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;return json.dumps(deleted_product)&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;        &lt;/span&gt;else:&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;            &lt;/span&gt;return &amp;#34;That index does not exist&amp;#34;&lt;/pre&gt;&#10;&lt;pre class=&quot;line after&quot;&gt;&lt;span class=&quot;ws&quot;&gt;&lt;/span&gt; &lt;/pre&gt;&lt;/div&gt;&#10;&lt;/div&gt;&#10;&lt;/ul&gt;&#10;  &lt;blockquote&gt;NameError: name &amp;#39;products&amp;#39; is not defined&#10;&lt;/blockquote&gt;&#10;&lt;/div&gt;&#10;&#10;&lt;div class=&quot;plain&quot;&gt;&#10;    &lt;p&gt;&#10;      This is the Copy/Paste friendly version of the traceback.&#10;    &lt;/p&gt;&#10;    &lt;textarea cols=&quot;50&quot; rows=&quot;10&quot; name=&quot;code&quot; readonly&gt;Traceback (most recent call last):&#10;  File &amp;#34;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&amp;#34;, line 1536, in __call__&#10;    return self.wsgi_app(environ, start_response)&#10;           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &amp;#34;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&amp;#34;, line 1514, in wsgi_app&#10;    response = self.handle_exception(e)&#10;               ^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &amp;#34;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&amp;#34;, line 1511, in wsgi_app&#10;    response = self.full_dispatch_request()&#10;               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &amp;#34;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&amp;#34;, line 919, in full_dispatch_request&#10;    rv = self.handle_user_exception(e)&#10;         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &amp;#34;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&amp;#34;, line 917, in full_dispatch_request&#10;    rv = self.dispatch_request()&#10;         ^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &amp;#34;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&amp;#34;, line 902, in dispatch_request&#10;    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]&#10;           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &amp;#34;C:\Users\hersh\PycharmProjects\sdgku\older-projects\server\server.py&amp;#34;, line 69, in delete_product&#10;    if index &amp;gt;=0 and index &amp;lt; len(products):&#10;                                 ^^^^^^^^^^&#10;NameError: name &amp;#39;products&amp;#39; is not defined&#10;&lt;/textarea&gt;&#10;&lt;/div&gt;&#10;&lt;div class=&quot;explanation&quot;&gt;&#10;  The debugger caught an exception in your WSGI application.  You can now&#10;  look at the traceback which led to the error.  &lt;span class=&quot;nojavascript&quot;&gt;&#10;  If you enable JavaScript you can also use additional features such as code&#10;  execution (if the evalex feature is enabled), automatic pasting of the&#10;  exceptions and much more.&lt;/span&gt;&#10;&lt;/div&gt;&#10;      &lt;div class=&quot;footer&quot;&gt;&#10;        Brought to you by &lt;strong class=&quot;arthur&quot;&gt;DON'T PANIC&lt;/strong&gt;, your&#10;        friendly Werkzeug powered traceback interpreter.&#10;      &lt;/div&gt;&#10;    &lt;/div&gt;&#10;&#10;    &lt;div class=&quot;pin-prompt&quot;&gt;&#10;      &lt;div class=&quot;inner&quot;&gt;&#10;        &lt;h3&gt;Console Locked&lt;/h3&gt;&#10;        &lt;p&gt;&#10;          The console is locked and needs to be unlocked by entering the PIN.&#10;          You can find the PIN printed out on the standard output of your&#10;          shell that runs the server.&#10;        &lt;form&gt;&#10;          &lt;p&gt;PIN:&#10;            &lt;input type=text name=pin size=14&gt;&#10;            &lt;input type=submit name=btn value=&quot;Confirm Pin&quot;&gt;&#10;        &lt;/form&gt;&#10;      &lt;/div&gt;&#10;    &lt;/div&gt;&#10;  &lt;/body&gt;&#10;&lt;/html&gt;&#10;&#10;&lt;!--&#10;&#10;Traceback (most recent call last):&#10;  File &quot;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&quot;, line 1536, in __call__&#10;    return self.wsgi_app(environ, start_response)&#10;           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &quot;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&quot;, line 1514, in wsgi_app&#10;    response = self.handle_exception(e)&#10;               ^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &quot;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&quot;, line 1511, in wsgi_app&#10;    response = self.full_dispatch_request()&#10;               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &quot;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&quot;, line 919, in full_dispatch_request&#10;    rv = self.handle_user_exception(e)&#10;         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &quot;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&quot;, line 917, in full_dispatch_request&#10;    rv = self.dispatch_request()&#10;         ^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &quot;C:\Users\hersh\PycharmProjects\fastApiProject\.venv\Lib\site-packages\flask\app.py&quot;, line 902, in dispatch_request&#10;    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]&#10;           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &quot;C:\Users\hersh\PycharmProjects\sdgku\older-projects\server\server.py&quot;, line 69, in delete_product&#10;    if index &gt;=0 and index &lt; len(products):&#10;                                 ^^^^^^^^^^&#10;NameError: name 'products' is not defined&#10;&#10;&#10;--&gt;&#10;" />
+              <option name="size" value="14964" />
+              <option name="time" value="15" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737234221991" />
+          <option name="id" value="2fd098d8-305c-4467-8bc5-237d7948b39a" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="&#10;  {&#10;    &quot;name&quot;: &quot;99 test&quot;,&#10;  }" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="248bc064-bd1d-4749-98a9-d404df919566" />
+              <option name="method" value="POST" />
+              <option name="name" value="Post Products" />
+              <option name="url" value="http://127.0.0.1:5000/api/products" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJuYW1lIjogIjk5IHRlc3QiLCAiX2lkIjogIjY3OGMxNzJkZDc4NGNlNTBkZDk0M2FiMyJ9" />
+              <option name="bodyString" value="{&quot;name&quot;: &quot;99 test&quot;, &quot;_id&quot;: &quot;678c172dd784ce50dd943ab3&quot;}" />
+              <option name="code" value="200" />
+              <option name="connectionEstablishingTime" value="2" />
+              <option name="contentType" value="text/html; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Server" />
+                    <option name="value" value="Werkzeug/3.1.3 Python/3.12.2" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 18 Jan 2025 21:03:41 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="text/html; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="54" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="close" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="2fd098d8-305c-4467-8bc5-237d7948b39a" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="HTML" />
+              <option name="previewType" value="HTML" />
+              <option name="rawBodyString" value="{&quot;name&quot;: &quot;99 test&quot;, &quot;_id&quot;: &quot;678c172dd784ce50dd943ab3&quot;}" />
+              <option name="size" value="54" />
+              <option name="time" value="39" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737236293384" />
+          <option name="id" value="46c1e888-2231-4dd7-84be-688c96c8d078" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="c072a0ac-e474-485d-958f-061c7be3e1fe" />
+              <option name="method" value="GET" />
+              <option name="name" value="Get Products" />
+              <option name="url" value="http://127.0.0.1:5000/api/products" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="WwogIHsKICAgICJfaWQiOiAiNjc4YzE1ODNkNzg0Y2U1MGRkOTQzYWIwIiwKICAgICJuYW1lIjogIjk5IHRlc3QiCiAgfSwKICB7CiAgICAiX2lkIjogIjY3OGMxNWZkZDc4NGNlNTBkZDk0M2FiMSIsCiAgICAibmFtZSI6ICI5OSB0ZXN0IgogIH0sCiAgewogICAgIl9pZCI6ICI2NzhjMTcxZmQ3ODRjZTUwZGQ5NDNhYjIiLAogICAgIm5hbWUiOiAiOTkgdGVzdCIKICB9LAogIHsKICAgICJfaWQiOiAiNjc4YzE3MmRkNzg0Y2U1MGRkOTQzYWIzIiwKICAgICJuYW1lIjogIjk5IHRlc3QiCiAgfQpdCg==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;_id&quot;: &quot;678c1583d784ce50dd943ab0&quot;,&#10;    &quot;name&quot;: &quot;99 test&quot;&#10;  },&#10;  {&#10;    &quot;_id&quot;: &quot;678c15fdd784ce50dd943ab1&quot;,&#10;    &quot;name&quot;: &quot;99 test&quot;&#10;  },&#10;  {&#10;    &quot;_id&quot;: &quot;678c171fd784ce50dd943ab2&quot;,&#10;    &quot;name&quot;: &quot;99 test&quot;&#10;  },&#10;  {&#10;    &quot;_id&quot;: &quot;678c172dd784ce50dd943ab3&quot;,&#10;    &quot;name&quot;: &quot;99 test&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="connectionEstablishingTime" value="1" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Server" />
+                    <option name="value" value="Werkzeug/3.1.3 Python/3.12.2" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 18 Jan 2025 21:38:13 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="283" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="close" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="46c1e888-2231-4dd7-84be-688c96c8d078" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[&#10;  {&#10;    &quot;_id&quot;: &quot;678c1583d784ce50dd943ab0&quot;,&#10;    &quot;name&quot;: &quot;99 test&quot;&#10;  },&#10;  {&#10;    &quot;_id&quot;: &quot;678c15fdd784ce50dd943ab1&quot;,&#10;    &quot;name&quot;: &quot;99 test&quot;&#10;  },&#10;  {&#10;    &quot;_id&quot;: &quot;678c171fd784ce50dd943ab2&quot;,&#10;    &quot;name&quot;: &quot;99 test&quot;&#10;  },&#10;  {&#10;    &quot;_id&quot;: &quot;678c172dd784ce50dd943ab3&quot;,&#10;    &quot;name&quot;: &quot;99 test&quot;&#10;  }&#10;]&#10;" />
+              <option name="size" value="283" />
+              <option name="time" value="335" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737236892217" />
+          <option name="id" value="f102023c-e33f-468f-a710-3958ade0ec1e" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="31f3332b-89fa-4cdf-bf93-d6c9eb51e317" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://127.0.0.1:5000/hello" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="PCFkb2N0eXBlIGh0bWw+CjxodG1sIGxhbmc9ZW4+Cjx0aXRsZT40MDQgTm90IEZvdW5kPC90aXRsZT4KPGgxPk5vdCBGb3VuZDwvaDE+CjxwPlRoZSByZXF1ZXN0ZWQgVVJMIHdhcyBub3QgZm91bmQgb24gdGhlIHNlcnZlci4gSWYgeW91IGVudGVyZWQgdGhlIFVSTCBtYW51YWxseSBwbGVhc2UgY2hlY2sgeW91ciBzcGVsbGluZyBhbmQgdHJ5IGFnYWluLjwvcD4K" />
+              <option name="bodyString" value="&lt;!doctype html&gt;&#10;&lt;html lang=en&gt;&#10;&lt;title&gt;404 Not Found&lt;/title&gt;&#10;&lt;h1&gt;Not Found&lt;/h1&gt;&#10;&lt;p&gt;The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.&lt;/p&gt;&#10;" />
+              <option name="code" value="404" />
+              <option name="connectionEstablishingTime" value="1" />
+              <option name="contentType" value="text/html; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Server" />
+                    <option name="value" value="Werkzeug/3.1.3 Python/3.12.2" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 18 Jan 2025 21:48:12 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="text/html; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="207" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="close" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="f102023c-e33f-468f-a710-3958ade0ec1e" />
+              <option name="message" value="Not Found" />
+              <option name="prettyResponseType" value="HTML" />
+              <option name="previewType" value="HTML" />
+              <option name="rawBodyString" value="&lt;!doctype html&gt;&#10;&lt;html lang=en&gt;&#10;&lt;title&gt;404 Not Found&lt;/title&gt;&#10;&lt;h1&gt;Not Found&lt;/h1&gt;&#10;&lt;p&gt;The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.&lt;/p&gt;&#10;" />
+              <option name="size" value="207" />
+              <option name="time" value="5" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737236911120" />
+          <option name="id" value="54223354-13c9-40c1-92ab-356bf0802b75" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="31f3332b-89fa-4cdf-bf93-d6c9eb51e317" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://127.0.0.1:5000/" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="V2VsY29tZSB0byB0aGUgZmxhc2sgQVBJ" />
+              <option name="bodyString" value="Welcome to the flask API" />
+              <option name="code" value="200" />
+              <option name="connectionEstablishingTime" value="2" />
+              <option name="contentType" value="text/html; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Server" />
+                    <option name="value" value="Werkzeug/3.1.3 Python/3.12.2" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 18 Jan 2025 21:48:31 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="text/html; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="24" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="close" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="54223354-13c9-40c1-92ab-356bf0802b75" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="HTML" />
+              <option name="previewType" value="HTML" />
+              <option name="rawBodyString" value="Welcome to the flask API" />
+              <option name="size" value="24" />
+              <option name="time" value="5" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737237183537" />
+          <option name="id" value="b940f023-afe0-44ee-9e08-d48d73e7407c" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="&#10;  {&#10;    &quot;title&quot;: &quot;99 test&quot;,&#10;    &quot;price&quot;: 12.345,&#10;    &quot;catagory&quot;: &quot;fruit&quot;,&#10;    &quot;image&quot;: &quot;img&quot;&#10;  }" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="248bc064-bd1d-4749-98a9-d404df919566" />
+              <option name="method" value="POST" />
+              <option name="name" value="Post Products" />
+              <option name="url" value="http://127.0.0.1:5000/api/products" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJ0aXRsZSI6ICI5OSB0ZXN0IiwgInByaWNlIjogMTIuMzQ1LCAiY2F0YWdvcnkiOiAiZnJ1aXQiLCAiaW1hZ2UiOiAiaW1nIiwgIl9pZCI6ICI2NzhjMjJiZmQwYWIyNmM2OGU1OTdmNTIifQ==" />
+              <option name="bodyString" value="{&quot;title&quot;: &quot;99 test&quot;, &quot;price&quot;: 12.345, &quot;catagory&quot;: &quot;fruit&quot;, &quot;image&quot;: &quot;img&quot;, &quot;_id&quot;: &quot;678c22bfd0ab26c68e597f52&quot;}" />
+              <option name="code" value="200" />
+              <option name="connectionEstablishingTime" value="2" />
+              <option name="contentType" value="text/html; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Server" />
+                    <option name="value" value="Werkzeug/3.1.3 Python/3.12.2" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 18 Jan 2025 21:53:03 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="text/html; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="109" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="close" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="b940f023-afe0-44ee-9e08-d48d73e7407c" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="HTML" />
+              <option name="previewType" value="HTML" />
+              <option name="rawBodyString" value="{&quot;title&quot;: &quot;99 test&quot;, &quot;price&quot;: 12.345, &quot;catagory&quot;: &quot;fruit&quot;, &quot;image&quot;: &quot;img&quot;, &quot;_id&quot;: &quot;678c22bfd0ab26c68e597f52&quot;}" />
+              <option name="size" value="109" />
+              <option name="time" value="341" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737237727822" />
+          <option name="id" value="75bdd219-3bda-4461-84f2-2dfe23cb3c8e" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;title&quot;: &quot;Product 1&quot;,&#10;  &quot;category&quot;: &quot;First&quot;,&#10;  &quot;price&quot;: 12.99,&#10;  &quot;image&quot;: &quot;https://picsum.photos/id/201/600&quot;&#10;}&#10;    " />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="248bc064-bd1d-4749-98a9-d404df919566" />
+              <option name="method" value="POST" />
+              <option name="name" value="Post Products" />
+              <option name="url" value="http://127.0.0.1:5000/api/products" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJ0aXRsZSI6ICJQcm9kdWN0IDEiLCAiY2F0ZWdvcnkiOiAiRmlyc3QiLCAicHJpY2UiOiAxMi45OSwgImltYWdlIjogImh0dHBzOi8vcGljc3VtLnBob3Rvcy9pZC8yMDEvNjAwIiwgIl9pZCI6ICI2NzhjMjRkZmQwYWIyNmM2OGU1OTdmNTMifQ==" />
+              <option name="bodyString" value="{&quot;title&quot;: &quot;Product 1&quot;, &quot;category&quot;: &quot;First&quot;, &quot;price&quot;: 12.99, &quot;image&quot;: &quot;https://picsum.photos/id/201/600&quot;, &quot;_id&quot;: &quot;678c24dfd0ab26c68e597f53&quot;}" />
+              <option name="code" value="200" />
+              <option name="connectionEstablishingTime" value="3" />
+              <option name="contentType" value="text/html; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Server" />
+                    <option name="value" value="Werkzeug/3.1.3 Python/3.12.2" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 18 Jan 2025 22:02:07 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="text/html; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="139" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="close" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="75bdd219-3bda-4461-84f2-2dfe23cb3c8e" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="HTML" />
+              <option name="previewType" value="HTML" />
+              <option name="rawBodyString" value="{&quot;title&quot;: &quot;Product 1&quot;, &quot;category&quot;: &quot;First&quot;, &quot;price&quot;: 12.99, &quot;image&quot;: &quot;https://picsum.photos/id/201/600&quot;, &quot;_id&quot;: &quot;678c24dfd0ab26c68e597f53&quot;}" />
+              <option name="size" value="139" />
+              <option name="time" value="50" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737237739901" />
+          <option name="id" value="f4f6a310-1e85-4323-aa5f-8dfcc0d0e38b" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;        &quot;title&quot;: &quot;Product 2&quot;,&#10;        &quot;category&quot;: &quot;Second&quot;,&#10;        &quot;price&quot;: 12.99,&#10;        &quot;image&quot;: &quot;https://picsum.photos/id/202/600&quot;&#10;    }&#10;    " />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="248bc064-bd1d-4749-98a9-d404df919566" />
+              <option name="method" value="POST" />
+              <option name="name" value="Post Products" />
+              <option name="url" value="http://127.0.0.1:5000/api/products" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJ0aXRsZSI6ICJQcm9kdWN0IDIiLCAiY2F0ZWdvcnkiOiAiU2Vjb25kIiwgInByaWNlIjogMTIuOTksICJpbWFnZSI6ICJodHRwczovL3BpY3N1bS5waG90b3MvaWQvMjAyLzYwMCIsICJfaWQiOiAiNjc4YzI0ZWJkMGFiMjZjNjhlNTk3ZjU0In0=" />
+              <option name="bodyString" value="{&quot;title&quot;: &quot;Product 2&quot;, &quot;category&quot;: &quot;Second&quot;, &quot;price&quot;: 12.99, &quot;image&quot;: &quot;https://picsum.photos/id/202/600&quot;, &quot;_id&quot;: &quot;678c24ebd0ab26c68e597f54&quot;}" />
+              <option name="code" value="200" />
+              <option name="connectionEstablishingTime" value="2" />
+              <option name="contentType" value="text/html; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Server" />
+                    <option name="value" value="Werkzeug/3.1.3 Python/3.12.2" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 18 Jan 2025 22:02:19 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="text/html; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="140" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="close" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="f4f6a310-1e85-4323-aa5f-8dfcc0d0e38b" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="HTML" />
+              <option name="previewType" value="HTML" />
+              <option name="rawBodyString" value="{&quot;title&quot;: &quot;Product 2&quot;, &quot;category&quot;: &quot;Second&quot;, &quot;price&quot;: 12.99, &quot;image&quot;: &quot;https://picsum.photos/id/202/600&quot;, &quot;_id&quot;: &quot;678c24ebd0ab26c68e597f54&quot;}" />
+              <option name="size" value="140" />
+              <option name="time" value="42" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737237749257" />
+          <option name="id" value="dfde4a58-f45a-49f1-ae00-d39cf98641c4" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;        &quot;title&quot;: &quot;Product 3&quot;,&#10;        &quot;category&quot;: &quot;Third&quot;,&#10;        &quot;price&quot;: 12.99,&#10;        &quot;image&quot;: &quot;https://picsum.photos/id/203/600&quot;&#10;    }" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="248bc064-bd1d-4749-98a9-d404df919566" />
+              <option name="method" value="POST" />
+              <option name="name" value="Post Products" />
+              <option name="url" value="http://127.0.0.1:5000/api/products" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJ0aXRsZSI6ICJQcm9kdWN0IDMiLCAiY2F0ZWdvcnkiOiAiVGhpcmQiLCAicHJpY2UiOiAxMi45OSwgImltYWdlIjogImh0dHBzOi8vcGljc3VtLnBob3Rvcy9pZC8yMDMvNjAwIiwgIl9pZCI6ICI2NzhjMjRmNWQwYWIyNmM2OGU1OTdmNTUifQ==" />
+              <option name="bodyString" value="{&quot;title&quot;: &quot;Product 3&quot;, &quot;category&quot;: &quot;Third&quot;, &quot;price&quot;: 12.99, &quot;image&quot;: &quot;https://picsum.photos/id/203/600&quot;, &quot;_id&quot;: &quot;678c24f5d0ab26c68e597f55&quot;}" />
+              <option name="code" value="200" />
+              <option name="connectionEstablishingTime" value="2" />
+              <option name="contentType" value="text/html; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Server" />
+                    <option name="value" value="Werkzeug/3.1.3 Python/3.12.2" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 18 Jan 2025 22:02:29 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="text/html; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="139" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="close" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="dfde4a58-f45a-49f1-ae00-d39cf98641c4" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="HTML" />
+              <option name="previewType" value="HTML" />
+              <option name="rawBodyString" value="{&quot;title&quot;: &quot;Product 3&quot;, &quot;category&quot;: &quot;Third&quot;, &quot;price&quot;: 12.99, &quot;image&quot;: &quot;https://picsum.photos/id/203/600&quot;, &quot;_id&quot;: &quot;678c24f5d0ab26c68e597f55&quot;}" />
+              <option name="size" value="139" />
+              <option name="time" value="39" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737237759569" />
+          <option name="id" value="054e46e2-2d5e-4923-bf9f-38d442e337f1" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;        &quot;title&quot;: &quot;Product 4&quot;,&#10;        &quot;category&quot;: &quot;Fourth&quot;,&#10;        &quot;price&quot;: 12.99,&#10;        &quot;image&quot;: &quot;https://picsum.photos/id/204/600&quot;&#10;    }" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="248bc064-bd1d-4749-98a9-d404df919566" />
+              <option name="method" value="POST" />
+              <option name="name" value="Post Products" />
+              <option name="url" value="http://127.0.0.1:5000/api/products" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJ0aXRsZSI6ICJQcm9kdWN0IDQiLCAiY2F0ZWdvcnkiOiAiRm91cnRoIiwgInByaWNlIjogMTIuOTksICJpbWFnZSI6ICJodHRwczovL3BpY3N1bS5waG90b3MvaWQvMjA0LzYwMCIsICJfaWQiOiAiNjc4YzI0ZmZkMGFiMjZjNjhlNTk3ZjU2In0=" />
+              <option name="bodyString" value="{&quot;title&quot;: &quot;Product 4&quot;, &quot;category&quot;: &quot;Fourth&quot;, &quot;price&quot;: 12.99, &quot;image&quot;: &quot;https://picsum.photos/id/204/600&quot;, &quot;_id&quot;: &quot;678c24ffd0ab26c68e597f56&quot;}" />
+              <option name="code" value="200" />
+              <option name="connectionEstablishingTime" value="2" />
+              <option name="contentType" value="text/html; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Server" />
+                    <option name="value" value="Werkzeug/3.1.3 Python/3.12.2" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 18 Jan 2025 22:02:39 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="text/html; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="140" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="close" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="054e46e2-2d5e-4923-bf9f-38d442e337f1" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="HTML" />
+              <option name="previewType" value="HTML" />
+              <option name="rawBodyString" value="{&quot;title&quot;: &quot;Product 4&quot;, &quot;category&quot;: &quot;Fourth&quot;, &quot;price&quot;: 12.99, &quot;image&quot;: &quot;https://picsum.photos/id/204/600&quot;, &quot;_id&quot;: &quot;678c24ffd0ab26c68e597f56&quot;}" />
+              <option name="size" value="140" />
+              <option name="time" value="40" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737237774869" />
+          <option name="id" value="2c69596e-97f3-4397-adcb-32b6ffdec7ef" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;        &quot;title&quot;: &quot;Product 5&quot;,&#10;        &quot;category&quot;: &quot;Fifth&quot;,&#10;        &quot;price&quot;: 12.99,&#10;        &quot;image&quot;: &quot;https://picsum.photos/id/206/600&quot;&#10;    }" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="248bc064-bd1d-4749-98a9-d404df919566" />
+              <option name="method" value="POST" />
+              <option name="name" value="Post Products" />
+              <option name="url" value="http://127.0.0.1:5000/api/products" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJ0aXRsZSI6ICJQcm9kdWN0IDUiLCAiY2F0ZWdvcnkiOiAiRmlmdGgiLCAicHJpY2UiOiAxMi45OSwgImltYWdlIjogImh0dHBzOi8vcGljc3VtLnBob3Rvcy9pZC8yMDYvNjAwIiwgIl9pZCI6ICI2NzhjMjUwZWQwYWIyNmM2OGU1OTdmNTcifQ==" />
+              <option name="bodyString" value="{&quot;title&quot;: &quot;Product 5&quot;, &quot;category&quot;: &quot;Fifth&quot;, &quot;price&quot;: 12.99, &quot;image&quot;: &quot;https://picsum.photos/id/206/600&quot;, &quot;_id&quot;: &quot;678c250ed0ab26c68e597f57&quot;}" />
+              <option name="code" value="200" />
+              <option name="connectionEstablishingTime" value="3" />
+              <option name="contentType" value="text/html; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Server" />
+                    <option name="value" value="Werkzeug/3.1.3 Python/3.12.2" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 18 Jan 2025 22:02:54 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="text/html; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="139" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="close" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="2c69596e-97f3-4397-adcb-32b6ffdec7ef" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="HTML" />
+              <option name="previewType" value="HTML" />
+              <option name="rawBodyString" value="{&quot;title&quot;: &quot;Product 5&quot;, &quot;category&quot;: &quot;Fifth&quot;, &quot;price&quot;: 12.99, &quot;image&quot;: &quot;https://picsum.photos/id/206/600&quot;, &quot;_id&quot;: &quot;678c250ed0ab26c68e597f57&quot;}" />
+              <option name="size" value="139" />
+              <option name="time" value="39" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737238801963" />
+          <option name="id" value="502f5b8d-2cfe-44dc-b6d4-3f86ef4b85f2" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;        &quot;code&quot;: &quot;querty&quot;,&#10;        &quot;discount&quot;: 12&#10;    }" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="248bc064-bd1d-4749-98a9-d404df919566" />
+              <option name="method" value="POST" />
+              <option name="name" value="Post Products" />
+              <option name="url" value="http://127.0.0.1:5000/api/coupons" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJjb2RlIjogInF1ZXJ0eSIsICJkaXNjb3VudCI6IDEyLCAiX2lkIjogIjY3OGMyOTExODE2NjVkOTczYWE4MTU0NiJ9" />
+              <option name="bodyString" value="{&quot;code&quot;: &quot;querty&quot;, &quot;discount&quot;: 12, &quot;_id&quot;: &quot;678c291181665d973aa81546&quot;}" />
+              <option name="code" value="200" />
+              <option name="connectionEstablishingTime" value="2" />
+              <option name="contentType" value="text/html; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Server" />
+                    <option name="value" value="Werkzeug/3.1.3 Python/3.12.2" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 18 Jan 2025 22:20:01 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="text/html; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="69" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="close" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="502f5b8d-2cfe-44dc-b6d4-3f86ef4b85f2" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="HTML" />
+              <option name="previewType" value="HTML" />
+              <option name="rawBodyString" value="{&quot;code&quot;: &quot;querty&quot;, &quot;discount&quot;: 12, &quot;_id&quot;: &quot;678c291181665d973aa81546&quot;}" />
+              <option name="size" value="69" />
+              <option name="time" value="282" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737239105995" />
+          <option name="id" value="ecfe4e11-496c-4905-86f7-6b5d20a3687c" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;        &quot;code&quot;: &quot;querty&quot;,&#10;        &quot;discount&quot;: 12&#10;    }" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="248bc064-bd1d-4749-98a9-d404df919566" />
+              <option name="method" value="POST" />
+              <option name="name" value="Post Products" />
+              <option name="url" value="http://127.0.0.1:5000/api/coupons" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJjb2RlIjogInF1ZXJ0eSIsICJkaXNjb3VudCI6IDEyLCAiX2lkIjogIjY3OGMyYTQxMzJmZDA2NjUzNDU5Y2M1NyJ9" />
+              <option name="bodyString" value="{&quot;code&quot;: &quot;querty&quot;, &quot;discount&quot;: 12, &quot;_id&quot;: &quot;678c2a4132fd06653459cc57&quot;}" />
+              <option name="code" value="200" />
+              <option name="connectionEstablishingTime" value="2" />
+              <option name="contentType" value="text/html; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Server" />
+                    <option name="value" value="Werkzeug/3.1.3 Python/3.12.2" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 18 Jan 2025 22:25:05 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="text/html; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="69" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="close" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="ecfe4e11-496c-4905-86f7-6b5d20a3687c" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="HTML" />
+              <option name="previewType" value="HTML" />
+              <option name="rawBodyString" value="{&quot;code&quot;: &quot;querty&quot;, &quot;discount&quot;: 12, &quot;_id&quot;: &quot;678c2a4132fd06653459cc57&quot;}" />
+              <option name="size" value="69" />
+              <option name="time" value="348" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737239243954" />
+          <option name="id" value="c7508591-e0d1-49a6-b19e-f9db65c04c1d" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;        &quot;code&quot;: &quot;querty&quot;,&#10;        &quot;discount&quot;: 12&#10;    }" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="248bc064-bd1d-4749-98a9-d404df919566" />
+              <option name="method" value="POST" />
+              <option name="name" value="Post Products" />
+              <option name="url" value="http://127.0.0.1:5000/api/coupons" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJjb2RlIjogInF1ZXJ0eSIsICJkaXNjb3VudCI6IDEyLCAiX2lkIjogIjY3OGMyYWNiY2E3YTMyZTYxNDllYjYxOCJ9" />
+              <option name="bodyString" value="{&quot;code&quot;: &quot;querty&quot;, &quot;discount&quot;: 12, &quot;_id&quot;: &quot;678c2acbca7a32e6149eb618&quot;}" />
+              <option name="code" value="200" />
+              <option name="connectionEstablishingTime" value="2" />
+              <option name="contentType" value="text/html; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Server" />
+                    <option name="value" value="Werkzeug/3.1.3 Python/3.12.2" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 18 Jan 2025 22:27:23 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="text/html; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="69" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="close" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="c7508591-e0d1-49a6-b19e-f9db65c04c1d" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="HTML" />
+              <option name="previewType" value="HTML" />
+              <option name="rawBodyString" value="{&quot;code&quot;: &quot;querty&quot;, &quot;discount&quot;: 12, &quot;_id&quot;: &quot;678c2acbca7a32e6149eb618&quot;}" />
+              <option name="size" value="69" />
+              <option name="time" value="270" />
             </responseState>
           </option>
           <option name="workspaceId" value="drafts" />
